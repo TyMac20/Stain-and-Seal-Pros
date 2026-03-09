@@ -1,0 +1,1493 @@
+
+WEBSITE BUILD DIRECTIVE
+Stain & Seal Pros  |  stainandsealpros.com
+STAGE 2 — REBUILD & OUTPERFORM
+Based on forensic audit of stainandsealexperts.com  |  March 2026
+Founders: Ty Mackey & Scott Pitts  |  Market: Springfield, MO + 20-mile radius
+Pages Directed: 17  |  Brand: Stain & Seal Pros Brand Guide v1.0
+
+   SECTION 1 — STRATEGIC OVERVIEW
+
+THE MISSION
+This directive instructs the development team to build stainandsealpros.com — a website that matches the structural strengths of stainandsealexperts.com while fixing every weakness identified in the Stage 1 audit. The goal is a site that ranks higher in Springfield-area local search, converts more visitors into estimate requests, and positions Stain & Seal Pros as the clear premium choice for outdoor wood care in Southwest Missouri.
+Do not copy. Outperform.
+BUSINESS PROFILE
+Business Name
+Stain & Seal Pros
+
+Website
+stainandsealpros.com
+
+Tagline
+Wood Care Specialists
+
+Founders
+Ty Mackey & Scott Pitts
+
+Primary Market
+Springfield, Missouri
+
+Service Area
+Springfield, Ozark, Nixa, Republic + all areas within 20 miles
+
+Services
+Wood Fence Staining & Sealing, Wood Deck Staining & Sealing, Log Home Restoration, Pergolas & Outdoor Structures, Pre-Stain Services, Wood Repairs
+
+Differentiators
+Local Springfield company, quality-first service, premium products, community focused
+
+Target Customers
+Homeowners, contractors/builders, property managers, HOAs
+
+Expansion
+Local only — no franchise angle
+BRAND IDENTITY (from Brand Guide v1.0)
+Primary Color
+#FF6A00 — Hi-Vis Orange (CTAs, headings, borders, accents)
+
+Secondary Color
+#0B3A66 — Deep Blue (backgrounds, footer, authority elements)
+
+White
+#FFFFFF — Breathing room, reversed text on dark fields
+
+Body Text
+#444444 — Dark Gray
+
+Background Alt
+#F5F5F5 — Light Gray
+
+Primary Font
+Arial Bold (all platforms) — Inter as digital heading alternative
+
+Logo
+Orange pentagon with cedar fence pickets + blue shield/checkmark + PROS wordmark
+
+Logo Don&apos;ts
+Never stretch, skew, recolor, add effects, or recreate the logo
+
+Brand Voice
+Expert, Trustworthy, Approachable — confident but not arrogant, warm not salesy
+
+Supporting Phrases
+&quot;Your deck. Our expertise.&quot; / &quot;Premium staining & sealing — done right.&quot; / &quot;Protect what matters. Preserve what you love.&quot; / &quot;Trusted by homeowners. Proven by results.&quot;
+COMPETITOR WEAKNESSES WE WILL EXPLOIT
+Every item below is a confirmed gap in stainandsealexperts.com. Each one is a mandate for this build.
+
+ZERO schema markup across entire competitor site — we will implement FAQ, LocalBusiness, Service, HowTo, Review, and Organization schema from day one
+No FAQ schema on a 8-question FAQ page and 8 questions on every service page — we will implement FAQ schema everywhere
+Broken CTA on Pre-Stain page (links to #) — all our CTAs will be tested and functional
+Wrong title tag on Contact page — all our title tags will be page-specific and keyword-optimized
+Entire privacy policy is unedited WordPress default template — we will have a real, custom privacy policy
+Only 1 before/after pair in a 120-photo gallery — we will lead with before/after pairs throughout
+No live chat — we will integrate a live chat widget
+No urgency or conversion incentives — we will include a clear first-visit offer
+EXPERT Club (their best conversion tool) buried in Step 6 — our equivalent will be prominent on the homepage
+Duplicate FAQ content across all service pages — we will write unique, service-specific FAQs
+No Google Map embed anywhere — every location-relevant page will have a map
+Testimonials page promises video testimonials but has none — our testimonials will match their headings
+No pricing transparency — we will include a clear &apos;What affects your quote&apos; guide
+No email capture or lead magnet — we will have an opt-in offer
+No blog content despite having a blog URL — we will build a content calendar from launch
+
+   SECTION 2 — SITE ARCHITECTURE & URL STRUCTURE
+
+FULL PAGE LIST — 17 PAGES AT LAUNCH
+Priority / Revenue Pages (7)
+/ — Homepage
+/services/ — Services Hub
+/get-a-free-estimate/ — Primary Conversion Page
+/contact/ — Contact Page (SEPARATE from estimate page — fix competitor error)
+/photo-gallery/ — Before & After Gallery
+/our-process/ — How We Work
+/about-us/ — About Ty & Scott
+Service Pages (6)
+/services/wood-fence-staining/
+/services/wood-deck-staining/
+/services/log-home-restoration/
+/services/pergolas-outdoor-structures/
+/services/pre-stain-services/
+/services/wood-repairs/  ← competitor&apos;s is a Lorem Ipsum page — ours will be real
+Location Pages (3 — Springfield + 2 secondary)
+/locations/ — Locations Hub with service area map
+/locations/springfield-mo/ — Springfield primary
+/locations/ozark-nixa-republic/ — Secondary markets combined
+Resource / Trust Pages (3)
+/faqs/ — FAQ page (20+ questions, accordion UI, full FAQ schema)
+/testimonials/ — Reviews + embedded Google reviews widget
+/resources/wood-care-guide/ — Free educational content / lead magnet
+Legal (2)
+/privacy-policy/ — Custom, legally adequate policy (not WP default)
+/terms-and-conditions/
+NAVIGATION STRUCTURE
+Primary Nav
+Home | Services | Locations | Our Process | Gallery | Resources (dropdown) | Get a Free Estimate (CTA button)
+
+Resources Dropdown
+About Us | FAQs | Testimonials | Wood Care Guide | Blog
+
+Footer Nav Col 1
+Quick Links: Home, Services, Locations, Gallery, Process, Blog, Contact
+
+Footer Nav Col 2
+Services: Fence Staining, Deck Staining, Log Homes, Pergolas, Pre-Stain, Wood Repairs
+
+Footer Nav Col 3
+Service Areas: Springfield, Ozark, Nixa, Republic + surrounding cities
+
+Footer Bottom
+Phone | Email | Social icons | Privacy Policy | Terms
+
+Note: Unlike the competitor, Blog should be in primary nav or Resources dropdown from launch — not hidden. Content marketing is a key differentiator.
+GLOBAL DESIGN SPEC
+Header
+Sticky white header. Logo left. Nav center. Phone number + orange CTA button right.
+
+Hero Style
+Full-width section with deep blue background or high-quality photography overlay. Orange H1. White subtext. Orange CTA button.
+
+CTA Buttons
+Orange #FF6A00 fill, white text, rounded corners. Hover: darken orange by 10%.
+
+Section Alternation
+White bg sections alternate with #F5F5F5 light gray bg sections for visual rhythm.
+
+Footer
+Deep Blue #0B3A66 background. White text. Orange accent links and dividers.
+
+Mobile
+Hamburger nav. All card grids collapse to single column. Phone number tap-to-call. CTA button full-width on mobile.
+
+Typography
+H1: Arial Bold 36pt Orange. H2: Arial Bold 24pt Blue. H3: Arial Bold 16pt Dark Gray. Body: Arial Regular 11pt Dark Gray.
+
+Photography Direction
+Custom job-site photography preferred. Show real Springfield-area homes. Cedar, pine fences. Neighborhood decks. Before/after pairs REQUIRED for gallery. Avoid generic stock.
+
+   SECTION 3 — PAGE-BY-PAGE BUILD DIRECTIVES
+
+   PAGE 1: HOMEPAGE
+URL: https://stainandsealpros.com/
+Page Type: Homepage
+
+SEO BRIEF
+Primary Keyword: wood fence and deck staining Springfield MO
+Title Tag: Wood Fence & Deck Staining Springfield MO | Stain & Seal Pros (60 chars)
+Meta Description: Springfield&apos;s wood care specialists. Expert staining & sealing for fences, decks, log homes & more. Free estimates. Serving Springfield, Ozark, Nixa & Republic. (155 chars)
+H1: Springfield&apos;s Wood Care Specialists
+H2 (sections): What We Stain & Seal | How It Works — Our Simple 3-Step Process | What Springfield Homeowners Are Saying | Why Choose Stain & Seal Pros | Protect Your Investment Today
+Schema: Organization + LocalBusiness + AggregateRating + FAQPage (mini FAQ block)
+Canonical: https://stainandsealpros.com/
+Internal Links: /get-a-free-estimate (5+), all 6 service pages via cards, /our-process, /about-us, /testimonials
+Local SEO Signals: Springfield MO in H1, title tag, meta. Address + phone in footer with LocalBusiness schema. Service area cities listed.
+WIREFRAME
+┌──────────────────────────────────────────────────────────┐
+│ STICKY HEADER                                            │
+│ [Logo]  Home|Services|Locations|Process|Gallery|Res▼    │
+│                          [417-XXX-XXXX] [Get Free Est.] │
+├──────────────────────────────────────────────────────────┤
+│ HERO — Full-width, deep blue bg or photo overlay         │
+│  Orange H1: &apos;Springfield&apos;s Wood Care Specialists&apos;        │
+│  White subheadline: &apos;Premium staining & sealing —       │
+│   done right. Serving Springfield, Ozark, Nixa & more.&apos; │
+│  [Get a Free Estimate BTN]  [See Our Work BTN]          │
+│  ⭐⭐⭐⭐⭐  XX 5-Star Reviews  (badge, bottom-left)     │
+├──────────────────────────────────────────────────────────┤
+│ TRUST BAR (4 icons, orange accent)                       │
+│ [Local Springfield Co.] [Premium Products]               │
+│ [Licensed & Insured] [Free Estimates]                    │
+├──────────────────────────────────────────────────────────┤
+│ SERVICES GRID                                            │
+│ H2: &apos;What We Stain & Seal&apos;                               │
+│  ┌──────┐ ┌──────┐ ┌──────┐                            │
+│  │Fence │ │Deck  │ │Log   │                            │
+│  │+desc │ │+desc │ │Home  │                            │
+│  │[Learn│ │[Learn│ │+desc │                            │
+│  │ More]│ │ More]│ │[Learn│                            │
+│  └──────┘ └──────┘ └──────┘                            │
+│  ┌──────┐ ┌──────┐ ┌──────┐                            │
+│  │Pergol│ │Pre-  │ │Wood  │  ← ALL 6 services shown    │
+│  │+desc │ │Stain │ │Repair│    (competitor shows 5)    │
+│  │[Learn│ │+desc │ │+desc │                            │
+│  └──────┘ └──────┘ └──────┘                            │
+├──────────────────────────────────────────────────────────┤
+│ 3-STEP PROCESS                                           │
+│ Step 1: Book Free Estimate  Step 2: We Clean & Stain     │
+│ Step 3: Enjoy for Years  [See Full Process →]           │
+├──────────────────────────────────────────────────────────┤
+│ FIRST-TIME OFFER (competitor has nothing like this)      │
+│ Orange/blue box: &apos;10% Off Your First Service&apos;            │
+│ &apos;Book your free estimate and mention PROS10&apos;             │
+│ [Claim Your Discount BTN]                                │
+├──────────────────────────────────────────────────────────┤
+│ REVIEWS (Google reviews widget + 6 featured quotes)      │
+│ ⭐⭐⭐⭐⭐  [Name, City, Date, Text] x6                   │
+│ [Read All Reviews on Google →]                           │
+├──────────────────────────────────────────────────────────┤
+│ BEFORE/AFTER PREVIEW                                     │
+│ [Before Photo] ←slider→ [After Photo]                   │
+│ [See Full Gallery →]                                     │
+├──────────────────────────────────────────────────────────┤
+│ WHY CHOOSE US                                            │
+│ Local Springfield Company | Quality Products | Insured   │
+│ Free Estimates | No Subcontractors | Satisfaction Guarantee│
+│ [Meet Ty & Scott →]                                      │
+├──────────────────────────────────────────────────────────┤
+│ SERVICE AREA MAP (Google Map embed)                      │
+│ Springfield | Ozark | Nixa | Republic | + radius cities  │
+├──────────────────────────────────────────────────────────┤
+│ MINI FAQ (3 questions with schema — competitor has none) │
+│ Q: How much does fence staining cost in Springfield?     │
+│ Q: How long does deck staining last?                     │
+│ Q: Do you serve Ozark and Nixa?                          │
+├──────────────────────────────────────────────────────────┤
+│ FOOTER (deep blue bg, orange accents)                    │
+│ Logo | Quick Links | Services | Service Areas | Social   │
+│ Address | Phone | Email | Privacy | Terms                │
+└──────────────────────────────────────────────────────────┘
+COPY DIRECTION
+Hero Headline
+Springfield&apos;s Wood Care Specialists
+Premium staining & sealing — done right.
+Serving Springfield, Ozark, Nixa, Republic, and the surrounding area.
+Trust Bar Labels
+Locally Owned in Springfield  |  Premium Products  |  Licensed & Insured  |  Free Estimates
+Services Grid Intro
+From fences to log homes, we protect and beautify every outdoor wood surface. Browse our services below and get a free estimate today.
+First-Time Offer Box
+NEW CUSTOMER OFFER
+10% Off Your First Service
+Book your free estimate and mention code PROS10 to save on your first job.
+No pressure. No obligation. Just great work at a fair price.
+Why Choose Us Points
+Locally owned and operated in Springfield, MO
+Premium products — we use only professional-grade stains and sealers
+Licensed, insured, and accountable — you&apos;re protected
+Free, no-pressure estimates
+We never subcontract — Ty and Scott&apos;s crew does every job
+Satisfaction guaranteed — we don&apos;t leave until it&apos;s right
+CTA STRATEGY
+Primary CTA: &quot;Get a Free Estimate&quot; — orange button, appears in hero, after services, after reviews, in footer
+Secondary CTA: &quot;See Our Work&quot; — links to /photo-gallery/
+Offer CTA: &quot;Claim Your Discount&quot; — links to /get-a-free-estimate/ with UTM parameter
+CTA Copy Rule: Every CTA must be benefit-driven. Never just &apos;Contact Us&apos;. Always &apos;Get a Free Estimate&apos;, &apos;See Our Work&apos;, or &apos;Claim Your Discount&apos;.
+Phone CTA: Tap-to-call phone number in header, footer, and after hero on mobile
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  ALL 6 services shown in homepage grid — competitor only shows 5 (no Wood Repairs)
+✓  First-time discount offer on homepage — competitor has zero conversion incentives
+✓  Mini FAQ with schema on homepage — competitor has no FAQ schema anywhere on site
+✓  Before/after preview slider on homepage — competitor shows almost no before/after
+✓  Google Map embed showing service area — competitor has no map embeds
+✓  LocalBusiness + AggregateRating schema — competitor has zero schema markup
+
+   PAGE 2: SERVICES HUB
+URL: https://stainandsealpros.com/services/
+Page Type: Services Hub
+
+SEO BRIEF
+Primary Keyword: wood staining and sealing services Springfield MO
+Title Tag: Wood Staining & Sealing Services Springfield MO | Stain & Seal Pros
+Meta Description: Professional wood staining and sealing for fences, decks, log homes, pergolas, and more. Springfield MO. Free estimates. Locally owned by Ty Mackey & Scott Pitts.
+H1: Professional Wood Staining & Sealing Services in Springfield, MO
+Schema: ItemList (service list schema) + LocalBusiness
+NOTE — Fix competitor error: Competitor H1 is just &apos;Services&apos; — zero keyword value. Ours will be keyword-rich.
+WIREFRAME
+┌────────────────────────────────────────────┐
+│ HEADER (sticky)                            │
+├────────────────────────────────────────────┤
+│ HERO BANNER — service-specific photo       │
+│ H1: &apos;Professional Wood Staining &          │
+│  Sealing Services in Springfield, MO&apos;      │
+│ [Breadcrumb: Home > Services]              │
+├────────────────────────────────────────────┤
+│ INTRO PARAGRAPH (150 words — competitor    │
+│ has ~50. This page needs real content.)    │
+├────────────────────────────────────────────┤
+│ SERVICE CARDS (ALL 6 — competitor shows 5) │
+│ Each: photo + h3 + 3-line desc + [Learn →] │
+│  Fence | Deck | Log Home                   │
+│  Pergola | Pre-Stain | Wood Repairs        │
+├────────────────────────────────────────────┤
+│ &apos;WHICH SERVICE DO I NEED?&apos; GUIDE           │
+│ (Competitor has nothing like this)         │
+│ Simple 3-question decision tool:           │
+│ New wood or existing? → Fence or deck?     │
+│ → Recommended service card                 │
+├────────────────────────────────────────────┤
+│ INLINE CTA (competitor has none here)      │
+│ &apos;Not sure where to start? Get a free       │
+│  estimate and we&apos;ll assess your project.&apos;  │
+│ [Get a Free Estimate BTN]                  │
+├────────────────────────────────────────────┤
+│ FOOTER                                     │
+└────────────────────────────────────────────┘
+COPY DIRECTION
+Intro Paragraph (write ~150 words)
+At Stain & Seal Pros, we specialize in one thing: protecting and beautifying outdoor wood. Whether you have a brand new cedar fence that needs pre-staining before installation, a weathered deck that needs restoration, or a log home that needs full maintenance — our Springfield team has the products, the process, and the experience to get it done right.
+
+We serve Springfield, Ozark, Nixa, Republic, and the surrounding Southwest Missouri area. Every job is handled by our own crew — we never subcontract. Browse our services below or call us for a free, no-pressure estimate.
+&apos;Which Service Do I Need?&apos; Decision Guide
+New wood not yet installed? → Pre-Stain Services
+Existing fence or deck? → Wood Fence or Deck Staining
+Cabin or log structure? → Log Home Restoration
+Pergola, arbor, or outdoor structure? → Pergolas & Outdoor Structures
+Rotted or damaged boards? → Wood Repairs
+CTA STRATEGY
+Inline CTA: Orange CTA button after services grid — competitor only has CTAs in header/footer
+Decision Guide CTA: Each guide recommendation links to its respective service page
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  Keyword-rich H1 — competitor H1 is just &apos;Services&apos;
+✓  All 6 services shown — competitor excludes Wood Repairs from grid
+✓  &apos;Which service do I need?&apos; decision guide — competitor has nothing like this
+✓  Inline CTA mid-page — competitor only has CTAs in header/footer
+✓  ~150-word intro — competitor has ~50 words, risking thin-content flags
+
+   PAGE 3: SERVICE: WOOD FENCE STAINING
+URL: https://stainandsealpros.com/services/wood-fence-staining/
+Page Type: Service Page
+
+SEO BRIEF
+Primary Keyword: wood fence staining Springfield MO
+Title Tag: Wood Fence Staining & Sealing Springfield MO | Stain & Seal Pros
+Meta Description: Professional wood fence staining and sealing in Springfield, MO. Pre-staining, restoration & maintenance for cedar and pine fences. Free estimates. Locally owned.
+H1: Wood Fence Staining & Sealing in Springfield, MO
+H2 Tags: Protect Your Fence From Day One | Already Installed? Restore & Maintain | What Stage Is Your Fence In? | Why Springfield Homeowners Choose Stain & Seal Pros | Fence Staining FAQs
+Schema: Service + FAQPage (fence-specific questions only) + LocalBusiness
+FAQ Note: Write fence-SPECIFIC FAQs — not the same generic 8 questions the competitor copies across every page
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ HEADER + HERO                            │
+│ H1: &apos;Wood Fence Staining & Sealing       │
+│  in Springfield, MO&apos;                     │
+│ [Breadcrumb: Home > Services > Fence]    │
+├──────────────────────────────────────────┤
+│ INTRO + photo (fence-specific image)     │
+├──────────────────────────────────────────┤
+│ PRE-STAINING SECTION                     │
+│ EXISTING FENCE SECTION                   │
+│ [Get a Free Estimate BTN] ← inline       │
+├──────────────────────────────────────────┤
+│ FENCE STAGE SELECTOR (4 stages)          │
+├──────────────────────────────────────────┤
+│ BEFORE/AFTER GALLERY (3+ pairs labeled)  │
+│ [Before] → [After] with stain color name │
+├──────────────────────────────────────────┤
+│ WHY CHOOSE US (fence-specific copy)      │
+├──────────────────────────────────────────┤
+│ FENCE FAQ (8 fence-specific questions)   │
+│ Accordion UI + FAQ schema                │
+├──────────────────────────────────────────┤
+│ RELATED SERVICES                         │
+│ → Pre-Stain Services → Wood Repairs      │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+Fence-Specific FAQ Questions (write answers for each)
+Q: How much does wood fence staining cost in Springfield, MO?
+Q: How long will fence staining last in Missouri&apos;s climate?
+Q: What&apos;s the best stain color for a cedar fence?
+Q: Do I need to pressure wash my fence before staining?
+Q: Can you stain a fence that was painted?
+Q: How long after a new fence is installed should I wait to stain it?
+Q: Do you stain both sides of the fence boards?
+Q: Do you serve Ozark and Nixa for fence staining?
+Before/After Gallery Labels
+Each before/after pair must include: stain color name, wood type, city (e.g. &apos;Springfield cedar fence — Pecan stain&apos;)
+Minimum 3 pairs on this page. Pull from job-site photos.
+CTA STRATEGY
+Primary CTA: &quot;Get a Free Fence Estimate&quot; — service-specific CTA copy (not generic)
+Inline CTA placement: After pre-staining section and after FAQ section
+Related Services: Link to Pre-Stain Services and Wood Repairs at bottom of page
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  H1 is city + service specific — competitor H1 is generic &apos;Wood Staining & Sealing&apos;
+✓  Fence-specific FAQs with schema — competitor copies identical 8 questions across ALL service pages
+✓  Before/after gallery with labels — competitor shows unlabeled after-shots only
+✓  Springfield MO in title, H1, meta — full local keyword coverage
+✓  Service-specific CTA copy — competitor uses same &apos;Get a Free Estimate&apos; everywhere
+
+   PAGE 4: SERVICE: WOOD DECK STAINING
+URL: https://stainandsealpros.com/services/wood-deck-staining/
+Page Type: Service Page
+
+SEO BRIEF
+Primary Keyword: wood deck staining Springfield MO
+Title Tag: Wood Deck Staining & Sealing Springfield MO | Stain & Seal Pros
+Meta Description: Expert deck staining, cleaning & restoration in Springfield, MO. Protect your outdoor living space. Serving Springfield, Ozark, Nixa & Republic. Free estimates.
+H1: Wood Deck Staining & Sealing in Springfield, MO
+Schema: Service + FAQPage (deck-specific questions) + LocalBusiness
+Key Angle: Lifestyle-forward — morning coffee, family gatherings, backyard BBQs. Missouri summer deck angle.
+Unique Content: Each service page FAQ must be unique — no copy-paste from fence page
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ HEADER + HERO (deck-specific photo)      │
+│ H1: &apos;Wood Deck Staining in Springfield&apos;  │
+├──────────────────────────────────────────┤
+│ LIFESTYLE INTRO — Missouri summers,      │
+│ backyard living, protect your investment │
+├──────────────────────────────────────────┤
+│ NEW DECK | EXISTING DECK sections        │
+│ [Get a Free Deck Estimate BTN]           │
+├──────────────────────────────────────────┤
+│ DECK STAGE SELECTOR (4 stages)           │
+├──────────────────────────────────────────┤
+│ BEFORE/AFTER GALLERY (3+ pairs)          │
+├──────────────────────────────────────────┤
+│ DECK-SPECIFIC FAQ (8 unique questions)   │
+│ Accordion + FAQ schema                   │
+├──────────────────────────────────────────┤
+│ RELATED: Pergolas | Pre-Stain | Repairs  │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+Deck-Specific FAQ Questions
+Q: How much does deck staining cost in Springfield, MO?
+Q: How often should I stain my deck in Missouri&apos;s climate?
+Q: What&apos;s the difference between deck staining and deck painting?
+Q: Can you stain a composite deck?
+Q: How long does deck staining take?
+Q: Do I need to sand my deck before staining?
+Q: What happens if I don&apos;t stain my deck?
+Q: Do you offer deck cleaning as a standalone service?
+CTA STRATEGY
+Primary CTA: &quot;Get a Free Deck Estimate&quot; — deck-specific, not generic
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  Unique deck-specific FAQs — competitor word-for-word copies fence page FAQ
+✓  Deck-specific H1 with city name — competitor H1 is just &apos;Wood Decks&apos;
+✓  Before/after pairs — competitor shows unlabeled photos only
+
+   PAGE 5: SERVICE: LOG HOME RESTORATION
+URL: https://stainandsealpros.com/services/log-home-restoration/
+Page Type: Service Page
+
+SEO BRIEF
+Primary Keyword: log home staining restoration Springfield MO
+Title Tag: Log Home Restoration & Staining Springfield MO | Stain & Seal Pros
+Meta Description: Complete log home restoration, staining & maintenance in Springfield, MO and surrounding Ozarks. Chinking, borate treatment, finish removal & more. Free estimates.
+H1: Log Home Restoration & Staining in the Springfield, MO Area
+Schema: Service + FAQPage (log home specific) + LocalBusiness
+Ozarks Angle: Lean into Ozarks/Missouri cabin culture — log homes are common in the region
+Services to List: Finish removal, crack repair, chinking, caulking, interior finishing, pest control, borate treatment, staining & sealing, rot repair, annual maintenance
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ HERO: Legacy/Ozarks retreat positioning  │
+│ H1: &apos;Log Home Restoration in Springfield&apos;│
+├──────────────────────────────────────────┤
+│ 10 LOG HOME SERVICES (with descriptions) │
+│ More detailed than competitor            │
+├──────────────────────────────────────────┤
+│ &apos;DISCOVERY CONSULTATION&apos; — named feature │
+│ (competitor mentions it once, buries it) │
+│ [Book Your Log Home Consultation BTN]    │
+├──────────────────────────────────────────┤
+│ BEFORE/AFTER GALLERY (log home specific) │
+├──────────────────────────────────────────┤
+│ LOG HOME FAQ (8 unique questions)        │
+│ Including chinking, borate, frequency    │
+│ Accordion + FAQ schema                   │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+Log Home Specific FAQ Questions
+Q: How often should a log home be stained and sealed?
+Q: What is chinking and does my log home need it?
+Q: What is borate treatment and why is it important?
+Q: How do I know if my log home needs restoration vs. maintenance?
+Q: Can you remove old paint or finish from a log home?
+Q: How long does log home restoration take?
+Q: Do you service log cabins in the surrounding Ozarks area?
+Q: What is a Discovery Consultation for log homes?
+Discovery Consultation — Give It a Proper Description
+Our Discovery Consultation is a free, no-pressure on-site visit where Ty or Scott personally assesses your log home&apos;s condition, identifies any areas of concern, and recommends a custom care plan. Unlike a standard estimate, this is a full walkthrough — we look at finish condition, wood moisture levels, structural integrity, and maintenance history before recommending a scope of work.
+CTA STRATEGY
+CTA: &quot;Book Your Log Home Consultation&quot; — differentiated CTA, not generic estimate
+Discovery Consultation CTA: Clearly explained and prominent — competitor buries it in passing copy
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  Ozarks regional angle in copy — log homes are common in this market
+✓  Discovery Consultation named, explained, and featured — competitor mentions it once
+✓  Log home-specific FAQs — competitor uses generic FAQ on this page
+✓  Chinking and borate treatment described in plain language — competitor mentions only in a list
+
+   PAGE 6: SERVICE: PERGOLAS & OUTDOOR STRUCTURES
+URL: https://stainandsealpros.com/services/pergolas-outdoor-structures/
+Page Type: Service Page
+
+SEO BRIEF
+Primary Keyword: pergola staining Springfield MO
+Title Tag: Pergola & Outdoor Structure Staining Springfield MO | Stain & Seal Pros
+Meta Description: Staining & sealing for pergolas, arbors, trellises, playsets and outdoor wood structures in Springfield, MO. Protect your backyard investment. Free estimates.
+H1: Pergola & Outdoor Structure Staining in Springfield, MO
+Schema: Service + FAQPage
+Expand Scope: Competitor mentions only pergolas/arbors — we will explicitly include playsets, outdoor furniture, trellises
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ HERO + H1 (structure-specific photo)     │
+├──────────────────────────────────────────┤
+│ SCOPE SECTION — list ALL structure types │
+│ Pergolas | Arbors | Trellises | Playsets │
+│ Outdoor Furniture | Gazebos | Fencing    │
+│ Shed exteriors | Garden structures       │
+│ (competitor only mentions pergolas/arbors│
+├──────────────────────────────────────────┤
+│ NEW | EXISTING | RESTORATION sections    │
+│ [Get a Free Estimate BTN]                │
+├──────────────────────────────────────────┤
+│ STAGE SELECTOR (4 stages — not 3         │
+│ like competitor)                         │
+├──────────────────────────────────────────┤
+│ GALLERY (minimum 6 photos — competitor   │
+│ has only 3 on this page)                 │
+├──────────────────────────────────────────┤
+│ FAQ (8 structure-specific questions)     │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+Structure Types to List (be explicit — competitor is vague)
+We stain and seal: Pergolas, Arbors, Trellises, Playsets & swing sets, Outdoor dining furniture, Gazebos, Shed exteriors, Privacy screens, Garden beds & raised planters, Freestanding gates
+Pergola-Specific FAQ Questions
+Q: How often should a pergola be stained in Missouri?
+Q: Can you stain a kit-built pergola?
+Q: Do you stain playsets — is it safe for kids?
+Q: How long does pergola staining take?
+Q: What stain colors work best for outdoor structures?
+Q: Can I have my pergola and fence stained at the same time?
+Q: Do you stain outdoor wood furniture?
+Q: Do you serve Nixa and Republic for pergola staining?
+CTA STRATEGY
+CTA: &quot;Get a Free Outdoor Structure Estimate&quot;
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  Explicit list of all structure types — competitor vaguely covers only pergolas/arbors
+✓  Playsets included — competitor mentions on homepage but not on this page
+✓  6+ gallery photos — competitor has only 3 on this page
+✓  4-stage selector — competitor uses only 3 stages here
+
+   PAGE 7: SERVICE: PRE-STAIN SERVICES
+URL: https://stainandsealpros.com/services/pre-stain-services/
+Page Type: Service Page
+
+SEO BRIEF
+Primary Keyword: pre-stain fence service Springfield MO
+Title Tag: Wood Pre-Staining Services Springfield MO | Stain & Seal Pros
+Meta Description: Pre-staining protects all four sides of fence boards before installation. Professional pre-stain service in Springfield, MO for builders & homeowners. Free estimates.
+H1: Wood Pre-Stain Services in Springfield, MO
+Schema: Service + HowTo (5-step process) + FAQPage
+CRITICAL FIX: Competitor&apos;s mid-page CTA links to &apos;#&apos; — ours will link correctly to /get-a-free-estimate/
+B2B Angle: Dedicated contractor/builder section — competitor has no dedicated path for B2B customers
+Founders Quote: Include a quote from Ty or Scott about pre-staining — competitor has a founder quote here and it works well
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ HERO + H1                                │
+├──────────────────────────────────────────┤
+│ EDUCATION: &apos;What most people don&apos;t know&apos; │
+│ All-4-sides protection angle             │
+├──────────────────────────────────────────┤
+│ 6 BENEFITS OF PRE-STAINING               │
+├──────────────────────────────────────────┤
+│ HOW IT WORKS (5 steps — HowTo schema)    │
+├──────────────────────────────────────────┤
+│ IDEAL FOR (4 applications)               │
+├──────────────────────────────────────────┤
+│ [Book Your Pre-Stain Service BTN]        │
+│ ← Links to /get-a-free-estimate/ NOT &apos;#&apos; │
+├──────────────────────────────────────────┤
+│ FOUNDER QUOTE (Ty or Scott)              │
+├──────────────────────────────────────────┤
+│ CONTRACTOR/BUILDER SECTION               │
+│ Volume pricing mention | Supply store    │
+│ [Get Contractor Pricing BTN]             │
+├──────────────────────────────────────────┤
+│ PRE-STAIN FAQ (8 specific questions)     │
+│ Accordion + FAQ + HowTo schema           │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+Founder Quote (write with Ty or Scott)
+&quot;We&apos;ve seen fences last years longer with pre-staining — and homeowners are always amazed at how much better the color holds on all four sides. If you&apos;re building new, there&apos;s no reason not to do it right the first time.&quot;
+— Ty Mackey, Co-Founder, Stain & Seal Pros
+Contractor Section Copy
+Building a new fence or deck? We partner with Springfield-area contractors and builders for pre-stain services on new construction projects. Ask about our volume pricing for multi-board or multi-structure jobs.
+Pre-Stain Specific FAQ Questions
+Q: What is pre-staining and why does it matter?
+Q: Can pre-stained boards be installed immediately after staining?
+Q: Will pre-stain wear off during installation?
+Q: What about cut ends after installation?
+Q: Do you offer pre-staining for decks and pergola lumber?
+Q: How much does pre-stain service cost in Springfield?
+Q: Can contractors use your pre-stain service for client projects?
+Q: How long does pre-staining take?
+CTA STRATEGY
+CRITICAL: Mid-page CTA button MUST link to /get-a-free-estimate/ — competitor&apos;s is broken (#)
+Contractor CTA: &quot;Get Contractor Pricing&quot; — dedicated path for B2B customers
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  Mid-page CTA links correctly — competitor&apos;s is broken
+✓  Dedicated contractor section — competitor has no B2B path
+✓  HowTo schema on 5-step process — competitor has no HowTo schema anywhere
+✓  8 pre-stain specific FAQs — competitor has only 3 on this page
+
+   PAGE 8: SERVICE: WOOD REPAIRS
+URL: https://stainandsealpros.com/services/wood-repairs/
+Page Type: Service Page
+
+SEO BRIEF
+Primary Keyword: wood fence repair Springfield MO
+Title Tag: Wood Fence & Deck Repair Springfield MO | Stain & Seal Pros
+Meta Description: Rotted boards, cracked pickets, damaged posts — we repair it all before restaining. Wood repair services in Springfield, MO. Free estimates. Locally owned.
+H1: Wood Fence & Deck Repair in Springfield, MO
+Schema: Service + FAQPage
+CRITICAL NOTE: Competitor&apos;s Wood Repairs page contains Lorem Ipsum — this is a LIVE page they haven&apos;t built. Ours will be fully written and functional from day 1.
+Angle: Repair + Restain bundling — position repairs as part of the full restoration process
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ HERO + H1 (repair/restore imagery)       │
+├──────────────────────────────────────────┤
+│ WHAT WE REPAIR                           │
+│ Rotted boards | Cracked pickets |        │
+│ Damaged posts | Loose rails |            │
+│ Warped deck boards | Storm damage        │
+├──────────────────────────────────────────┤
+│ REPAIR + RESTAIN BUNDLE PITCH            │
+│ &apos;Fix it and protect it in one visit&apos;     │
+│ [Get a Repair + Restain Estimate BTN]    │
+├──────────────────────────────────────────┤
+│ BEFORE/AFTER GALLERY (repair specific)   │
+├──────────────────────────────────────────┤
+│ FAQ (8 repair-specific questions)        │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+What We Repair — List
+Rotted fence boards and deck planks | Cracked or split pickets | Damaged or leaning posts | Loose or broken rails | Warped or cupped deck boards | Storm and impact damage | Structural reinforcement | Board replacement pre-stain
+Repair + Restain Bundle Copy
+Most repairs look best when followed by staining — so we bundle them. In one visit, we repair the damage, prep the surface, and apply a fresh stain and seal coat. You get a fully restored result without scheduling two separate appointments.
+Repair-Specific FAQ Questions
+Q: Can you repair a fence and stain it in the same visit?
+Q: How do I know if my fence needs repair or full replacement?
+Q: Do you repair deck boards, posts, and railings?
+Q: How much does wood fence repair cost in Springfield?
+Q: Can you repair storm-damaged fencing quickly?
+Q: Do you repair log home components like chinking and caulking?
+Q: Will repairs match the existing stain color?
+Q: Do you do partial fence repairs or only full panel replacements?
+CTA STRATEGY
+CTA: &quot;Get a Repair + Restain Estimate&quot; — bundled offer CTA
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  Fully written page — competitor&apos;s Wood Repairs page is Lorem Ipsum placeholder
+✓  Repair + restain bundle pitch — unique conversion angle competitor lacks
+✓  8 repair-specific FAQs with schema — competitor has nothing here
+
+   PAGE 9: OUR PROCESS
+URL: https://stainandsealpros.com/our-process/
+Page Type: Differentiator Page
+
+SEO BRIEF
+Primary Keyword: professional wood staining process Springfield MO
+Title Tag: Our Wood Care Process | How We Work | Stain & Seal Pros Springfield MO
+Meta Description: See exactly how Stain & Seal Pros works — from your first call to the final walkthrough. 6 simple steps. Springfield, MO. Free estimates.
+H1: How We Work — The Stain & Seal Pros Process
+Schema: HowTo (6 steps) — competitor has no HowTo schema on this page
+KEY WIN: Our equivalent of their EXPERT Club should be PROMINENT here — not buried in Step 6
+Pros Guarantee: Name our guarantee clearly — &apos;The Pros Guarantee&apos; or similar — as a standalone section
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ HERO + H1: &apos;How We Work&apos;                 │
+├──────────────────────────────────────────┤
+│ PROS GUARANTEE BANNER (top placement)    │
+│ &apos;Satisfaction Guaranteed. We don&apos;t leave │
+│  until the job is right.&apos;                │
+│ [competitor buries this in step 6]       │
+├──────────────────────────────────────────┤
+│ 6-STEP PROCESS (HowTo schema)            │
+│ Step 1: Book Your Free Estimate          │
+│ Step 2: We Assess Your Project           │
+│ Step 3: Deep Clean & Prep                │
+│ Step 4: Premium Stain & Seal Application │
+│ Step 5: Final Walkthrough With You       │
+│ Step 6: Ongoing Maintenance Partnership  │
+├──────────────────────────────────────────┤
+│ &apos;NEVER SUBCONTRACTED&apos; CALLOUT BOX        │
+│ Orange/blue box — Ty & Scott&apos;s crew only │
+├──────────────────────────────────────────┤
+│ CUSTOMER QUOTES (tied to specific steps) │
+│ e.g. &apos;The walkthrough made us feel       │
+│  totally confident&apos; — Jane S., Springfield│
+├──────────────────────────────────────────┤
+│ [Get a Free Estimate BTN]                │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+Pros Guarantee Copy
+THE PROS GUARANTEE
+We don&apos;t leave until it&apos;s right. Every job comes with our satisfaction guarantee — if you&apos;re not happy with the result, we come back and make it right. No runaround. No excuses. That&apos;s the Stain & Seal Pros standard.
+Never Subcontracted Callout
+Every job is done by Ty, Scott, and our own crew — not a subcontractor. You know who&apos;s showing up. You know who to call. That&apos;s how we build trust in Springfield.
+Step Content (write full copy for each)
+Step 1 — Book Your Free Estimate: Call or fill out our online form. We respond same or next day and schedule an on-site estimate at your convenience.
+Step 2 — We Assess Your Project: Ty or Scott visits in person, evaluates the wood condition, moisture levels, and existing finish before recommending the right treatment.
+Step 3 — Deep Clean & Prep: We use professional eco-safe cleaners to remove mold, mildew, UV gray, and old finish — so the stain bonds properly and lasts.
+Step 4 — Premium Stain & Seal: We apply professional-grade oil-based stain that penetrates deep into the wood grain, locking out moisture and UV damage.
+Step 5 — Final Walkthrough: Before we leave, we walk the job with you and make sure you&apos;re 100% satisfied. If anything needs attention, we handle it on the spot.
+Step 6 — Ongoing Maintenance: We&apos;ll remind you when it&apos;s time for your next maintenance, so your wood always looks its best without you having to track it.
+CTA STRATEGY
+Guarantee CTA: &quot;Get a Free Estimate — Backed by the Pros Guarantee&quot;
+Never Subcontracted: Callout box with orange border — one of our strongest trust signals
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  Pros Guarantee featured at TOP — competitor buries their warranty in Step 6
+✓  HowTo schema on 6 steps — competitor has no HowTo schema on this page
+✓  Customer quotes tied to specific steps — competitor has no social proof on this page
+✓  &apos;Never Subcontracted&apos; callout box — highlighted prominently, not buried in copy
+✓  Step 5 &apos;Final Walkthrough&apos; — added accountability step not in competitor&apos;s process
+
+   PAGE 10: ABOUT US
+URL: https://stainandsealpros.com/about-us/
+Page Type: Brand Story Page
+
+SEO BRIEF
+Primary Keyword: wood staining company Springfield MO
+Title Tag: About Stain & Seal Pros | Ty Mackey & Scott Pitts | Springfield, MO
+Meta Description: Stain & Seal Pros is a locally owned wood care company in Springfield, MO. Meet founders Ty Mackey and Scott Pitts — and see why Springfield homeowners trust us.
+H1: About Stain & Seal Pros — Springfield&apos;s Wood Care Specialists
+Schema: Organization + Person (Ty Mackey) + Person (Scott Pitts) + LocalBusiness
+YouTube Video: Upload About Us video to YouTube and embed — competitor self-hosts which risks page load performance
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ HERO + H1                                │
+├──────────────────────────────────────────┤
+│ COMPANY STORY PARAGRAPH (Springfield     │
+│ origin, why we started, what drives us)  │
+├──────────────────────────────────────────┤
+│ YOUTUBE VIDEO EMBED (not self-hosted)    │
+├──────────────────────────────────────────┤
+│ MISSION | VISION | VALUES                │
+│ (orange accent icons)                    │
+├──────────────────────────────────────────┤
+│ MEET THE FOUNDERS                        │
+│ [Ty Mackey photo + bio]                  │
+│ [Scott Pitts photo + bio]                │
+├──────────────────────────────────────────┤
+│ COMMUNITY SECTION                        │
+│ &apos;Locally owned — we live here too&apos;       │
+│ Springfield pride angle                  │
+├──────────────────────────────────────────┤
+│ [Get a Free Estimate BTN]                │
+│ (competitor has no CTA at end of About)  │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+Ty Mackey Bio (draft — customize with real details)
+Ty Mackey is a co-founder of Stain & Seal Pros and leads field operations. A Springfield native, Ty brings [X years] of hands-on wood care experience to every project. He&apos;s committed to doing the job right the first time — and making sure every customer is 100% satisfied before the crew leaves the property.
+Scott Pitts Bio (draft — customize with real details)
+Scott Pitts is a co-founder of Stain & Seal Pros and leads customer experience and business operations. Springfield born and raised, Scott built this business on a simple belief: local homeowners deserve a wood care company they can actually trust. He&apos;s on call for every customer question — before, during, and after the job.
+Community Section Copy
+We&apos;re not a national chain — we&apos;re your neighbors. Ty and Scott live in Springfield, send their kids to Springfield schools, and take pride in the work we do right here in our community. When you hire Stain & Seal Pros, you&apos;re supporting a local business that cares about this city as much as you do.
+CTA STRATEGY
+End-of-Page CTA: &quot;See Our Work&quot; or &quot;Get a Free Estimate&quot; — competitor has no CTA at end of About page
+Community CTA: Link to /locations/springfield-mo/ from community section
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  Organization + Person schema — competitor has no schema on About page
+✓  YouTube embed — competitor self-hosts video, risking slow load
+✓  Community/local angle — strong differentiator as a Springfield-native business
+✓  CTA at end of page — competitor&apos;s About page ends with a supply store link
+✓  Person schema for both founders — helps brand SERP presence
+
+   PAGE 11: FAQs
+URL: https://stainandsealpros.com/faqs/
+Page Type: FAQ Resource Page
+
+SEO BRIEF
+Primary Keyword: wood staining FAQ Springfield MO / fence staining cost Springfield
+Title Tag: Wood Staining & Sealing FAQs | Stain & Seal Pros Springfield, MO
+Meta Description: Answers to the most common questions about fence and deck staining in Springfield, MO. Costs, timeline, products, and more. Stain & Seal Pros.
+H1: Frequently Asked Questions — Wood Staining & Sealing
+Schema: FAQPage schema on EVERY question — this is the single biggest SEO gap on the competitor site
+Question Count: Minimum 20 questions — competitor has only 8
+UI: Accordion/collapsible — competitor shows all open which is poor mobile UX
+Cost Answer: ANSWER the cost question with ballpark ranges — competitor deflects it entirely
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ HERO + H1: &apos;Frequently Asked Questions&apos;  │
+├──────────────────────────────────────────┤
+│ CATEGORY TABS or JUMP LINKS              │
+│ General | Fences | Decks | Log Homes |   │
+│ Pricing | Process                        │
+├──────────────────────────────────────────┤
+│ GENERAL QUESTIONS (5+)                   │
+│ [Accordion — each Q collapsible]         │
+├──────────────────────────────────────────┤
+│ FENCE QUESTIONS (4+)                     │
+├──────────────────────────────────────────┤
+│ DECK QUESTIONS (4+)                      │
+├──────────────────────────────────────────┤
+│ PRICING QUESTIONS (3+)                   │
+│ ← ANSWER THE COST QUESTION               │
+│   Competitor deflects it. We answer it.  │
+├──────────────────────────────────────────┤
+│ CTA: &apos;Still have questions?&apos;             │
+│ [Get a Free Estimate] or [Call Us]       │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+20 FAQ Questions to Write (with answers)
+GENERAL
+1. Why should I stain and seal my fence or deck?
+2. How long does staining last?
+3. What&apos;s the best time of year to stain wood in Missouri?
+4. Do you use eco-friendly products?
+5. Do you subcontract any work?
+
+FENCES
+6. How long after a new fence is installed should I stain it?
+7. Can you stain both sides of the fence?
+8. Can you stain a fence that was previously painted?
+9. What stain colors do you offer for fences?
+
+DECKS
+10. Can you stain a composite deck?
+11. Do you sand decks before staining?
+12. How do I maintain my deck after staining?
+
+LOG HOMES
+13. How often should a log home be stained?
+14. What is chinking and does my home need it?
+
+PRICING
+15. How much does fence staining cost in Springfield, MO?
+16. How much does deck staining cost?
+17. Do you offer any discounts for new customers?
+
+PROCESS
+18. How long does the job take?
+19. Do I need to be home while you work?
+20. What happens if it rains after you stain?
+Pricing Answer (answer it — competitor deflects)
+Q: How much does fence staining cost in Springfield, MO?
+A: Most residential fence staining jobs in the Springfield area range from $X to $X depending on fence size, wood condition, and stain type. Deck jobs typically range from $X to $X. The best way to get an accurate number is a free on-site estimate — we&apos;ll give you a clear, no-pressure quote before any work begins.
+(Fill in real price ranges based on your actual pricing)
+CTA STRATEGY
+FAQ Schema: Every single question must have FAQPage schema markup — this is our single biggest SEO advantage over the competitor
+Inline CTAs: After each FAQ category, include a CTA: &apos;Ready to get started? Get a free estimate.&apos;
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  FAQPage schema on ALL questions — competitor has zero schema on their dedicated FAQ page
+✓  20+ questions — competitor has only 8
+✓  Accordion UI — competitor shows all questions open, poor mobile UX
+✓  Category organization — competitor has no categories
+✓  ANSWERS the pricing question — competitor deflects it entirely, losing high-intent searchers
+
+   PAGE 12: PHOTO GALLERY
+URL: https://stainandsealpros.com/photo-gallery/
+Page Type: Gallery Page
+
+SEO BRIEF
+Primary Keyword: fence deck staining before and after Springfield MO
+Title Tag: Before & After Gallery | Wood Staining Results | Stain & Seal Pros Springfield MO
+Meta Description: Real before and after photos from our Springfield, MO wood staining projects. Fences, decks, log homes, pergolas — see the difference. Stain & Seal Pros.
+H1: Before & After — Real Results from Real Springfield Projects
+Schema: ImageObject schema on every photo — competitor has none on 120+ photos
+CRITICAL UPGRADE: Competitor has 1 before/after pair in a 120-photo gallery. We will lead with before/after pairs throughout, organized by service type.
+Organization: Tab filter by: Fences | Decks | Log Homes | Pergolas & Structures
+Labels: Every photo must show: stain color name + wood type + city
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ HERO + H1: &apos;Before & After Results&apos;      │
+├──────────────────────────────────────────┤
+│ FILTER TABS                              │
+│ All | Fences | Decks | Log Homes |       │
+│ Pergolas & Structures                    │
+├──────────────────────────────────────────┤
+│ BEFORE/AFTER GRID                        │
+│ [Before] → [After] PAIRS throughout      │
+│ Each pair: stain color + wood + city     │
+│ Interactive slider on each pair          │
+├──────────────────────────────────────────┤
+│ STAIN COLOR GUIDE CALLOUT                │
+│ &apos;Curious what stain color we used?       │
+│  Every photo is labeled.&apos;                │
+├──────────────────────────────────────────┤
+│ CTA: &apos;Like what you see?&apos;                │
+│ [Get Your Free Estimate Today BTN]       │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+Photo Metadata Requirements (for SEO)
+Every photo must have:
+- Alt text: &apos;[service type] [stain color] [city] — Stain & Seal Pros&apos; e.g. &apos;cedar fence pecan stain Springfield MO — Stain & Seal Pros&apos;
+- Caption (visible): Stain color name + wood type + location
+- ImageObject schema: name, description, contentUrl, thumbnailUrl
+Gallery Page Intro Copy
+Every photo in this gallery is a real project completed by the Stain & Seal Pros team right here in Springfield and the surrounding area. Browse by service type, or use the filter to find a project that looks like yours. Every pair shows the before and after — so you can see exactly what we&apos;re capable of.
+CTA STRATEGY
+Primary CTA: &quot;Get Your Free Estimate Today&quot; after gallery
+Stain Color Guide: Link to /resources/wood-care-guide/ from stain color callout
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  Before/after pairs throughout — competitor has 1 pair in 120 photos
+✓  Filter tabs by service type — competitor has no filter, all photos mixed
+✓  Labeled stain colors visible to users — competitor buries this in filenames only
+✓  ImageObject schema — competitor has zero schema on 120+ photos
+✓  Alt text strategy — SEO-formatted alt text on every image
+
+   PAGE 13: TESTIMONIALS
+URL: https://stainandsealpros.com/testimonials/
+Page Type: Social Proof Page
+
+SEO BRIEF
+Primary Keyword: Stain & Seal Pros reviews Springfield MO
+Title Tag: Customer Reviews & Testimonials | Stain & Seal Pros Springfield, MO
+Meta Description: See what Springfield homeowners say about Stain & Seal Pros. Real reviews from real customers in Springfield, Ozark, Nixa & Republic, MO.
+H1: What Springfield Homeowners Say About Us
+Schema: Review + AggregateRating schema — competitor has zero on their testimonials page
+CRITICAL FIX: Competitor&apos;s testimonials page says &apos;Video Testimonials&apos; but has zero videos. If we have videos — embed them. If not — don&apos;t claim them.
+Volume: Feature 20+ reviews minimum — competitor has only 5 on their dedicated page
+Google Reviews: Embed Google reviews widget — pull directly from Google Business Profile
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ HERO + H1: &apos;What Springfield Homeowners  │
+│  Say About Us&apos;                           │
+├──────────────────────────────────────────┤
+│ AGGREGATE RATING BADGE                   │
+│ ⭐⭐⭐⭐⭐ X.X/5 from XX Google Reviews    │
+│ (schema-marked up)                       │
+├──────────────────────────────────────────┤
+│ GOOGLE REVIEWS WIDGET (live embed)       │
+├──────────────────────────────────────────┤
+│ FEATURED REVIEW CARDS (20+ cards)        │
+│ Each: ⭐⭐⭐⭐⭐ Name, City, Date, Text    │
+│ Service type label on each card          │
+│ e.g. &apos;Fence Staining — Springfield&apos;      │
+├──────────────────────────────────────────┤
+│ VIDEO TESTIMONIALS (only if we have them)│
+│ Properly labeled — no false promises     │
+├──────────────────────────────────────────┤
+│ CTA: &apos;Ready to become our next happy     │
+│  customer?&apos;                              │
+│ [Get Your Free Estimate BTN]             │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+Review Card Format
+⭐⭐⭐⭐⭐
+&quot;[Review text — 2-5 sentences from real customer]&quot;
+— [First name + last initial], [City], [Service Type]
+e.g. — Sarah M., Springfield, Fence Staining
+⚠  Only title video testimonials as &apos;Video Testimonials&apos; if actual videos exist. Competitor&apos;s page promises videos but has none — this actively damages credibility. Do not repeat this mistake.
+CTA STRATEGY
+Primary CTA: &quot;Get Your Free Estimate&quot; after testimonials section
+Review Schema: AggregateRating in page head + individual Review schema on featured cards
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  Review + AggregateRating schema — competitor has zero schema on testimonials page
+✓  20+ reviews — competitor has only 5 on their dedicated page
+✓  Star ratings on every review card — competitor shows none
+✓  Service type label on each review — competitor mixes service and product reviews with no labels
+✓  Honest about video content — no false promises unlike competitor
+
+   PAGE 14: LOCATIONS HUB
+URL: https://stainandsealpros.com/locations/
+Page Type: Locations Hub
+
+SEO BRIEF
+Primary Keyword: wood staining near me Springfield MO
+Title Tag: Service Locations | Springfield, Ozark, Nixa & Republic MO | Stain & Seal Pros
+Meta Description: Stain & Seal Pros serves Springfield, Ozark, Nixa, Republic and all cities within 20 miles. See our full service area and get a free estimate today.
+H1: Serving Springfield, MO and Surrounding Communities
+Schema: LocalBusiness with full NAP + GeoCoordinates + ServiceArea
+CRITICAL FIX: Competitor has nearly empty Locations page (~50 words, 1 location, no map). Ours will be a full local SEO resource.
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ HERO + H1: &apos;Serving Springfield & More&apos;  │
+├──────────────────────────────────────────┤
+│ GOOGLE MAP EMBED (full service area)     │
+│ (competitor has no map anywhere)         │
+├──────────────────────────────────────────┤
+│ LOCATION CARDS                           │
+│ [Springfield — Primary]                  │
+│ [Ozark | Nixa | Republic — Secondary]    │
+│ Each: photo + city name + service list   │
+│ + [Get a Free Estimate in [City] BTN]    │
+├──────────────────────────────────────────┤
+│ SERVICE AREA LIST                        │
+│ Full list of cities in 20-mile radius    │
+│ Linked to city pages where possible      │
+├──────────────────────────────────────────┤
+│ NAP INFO (schema-marked)                 │
+│ Address | Phone | Email | Hours          │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+Service Area City List (expand as needed)
+Primary: Springfield, MO
+Secondary: Ozark | Nixa | Republic | Willard | Battlefield | Strafford | Rogersville | Clever | Highlandville | Billings | Fair Grove | Walnut Grove | Bolivar (if in radius) | Branson (if in radius)
+Location Page Intro Copy
+Stain & Seal Pros is based in Springfield, Missouri and serves the entire surrounding area within 20 miles. Whether you&apos;re in Ozark, Nixa, Republic, or anywhere in between — Ty and Scott&apos;s crew can come to you for a free, no-pressure estimate.
+CTA STRATEGY
+LocalBusiness Schema: Full NAP, GeoCoordinates, ServiceArea — must be implemented on this page
+City CTAs: Each location card has a city-specific CTA: &apos;Get a Free Estimate in Ozark&apos;
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  Google Map embed — competitor has no map embeds anywhere on site
+✓  Full location cards with city-specific CTAs — competitor has 1 bare location entry
+✓  LocalBusiness schema with service area — competitor has no schema on locations page
+✓  Full service area city list — competitor lists 0 cities on their national locations page
+
+   PAGE 15: GET A FREE ESTIMATE
+URL: https://stainandsealpros.com/get-a-free-estimate/
+Page Type: Primary Conversion Page
+
+SEO BRIEF
+Primary Keyword: free fence staining estimate Springfield MO
+Title Tag: Get a Free Wood Staining Estimate | Springfield, MO | Stain & Seal Pros
+Meta Description: Get a free, no-pressure estimate from Stain & Seal Pros. We serve Springfield, Ozark, Nixa & Republic. Most estimates delivered same or next day.
+H1: Get Your Free, No-Pressure Estimate
+CRITICAL FIX: Competitor&apos;s estimate page appears near-empty to crawlers (JS-rendered form, no supporting content). Ours will have real content around the form for SEO value.
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ HEADER + H1: &apos;Get Your Free Estimate&apos;    │
+├──────────────────────────────────────────┤
+│ TWO-COLUMN LAYOUT                        │
+│ LEFT: ESTIMATE FORM                      │
+│  Name | Phone | Email | Service needed   │
+│  Address | Message | [Submit BTN]        │
+│                                          │
+│ RIGHT: TRUST SIGNALS                     │
+│  ⭐⭐⭐⭐⭐ XX Reviews                   │
+│  &apos;Same or next day response&apos;             │
+│  &apos;No obligation — ever&apos;                  │
+│  &apos;Locally owned Springfield company&apos;     │
+│  Phone: [tap-to-call]                    │
+│  &apos;Prefer to call? We answer.&apos;            │
+├──────────────────────────────────────────┤
+│ WHAT HAPPENS NEXT? (3 steps)             │
+│ 1. You submit → 2. We call same day →    │
+│ 3. Free on-site estimate at your schedule│
+├──────────────────────────────────────────┤
+│ MINI FAQ (3 hesitation-busting Qs)       │
+│ with FAQ schema                          │
+│ Q: Is the estimate really free?          │
+│ Q: Am I obligated if I get an estimate?  │
+│ Q: How quickly do you respond?           │
+├──────────────────────────────────────────┤
+│ RECENT REVIEWS (3 short quotes)          │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+What Happens Next Section
+1. You fill out the form or call us
+2. Ty or Scott calls you same or next business day
+3. We schedule a free on-site visit at a time that works for you
+4. You get a clear, written estimate — no pressure, no obligation
+Mini FAQ — Hesitation Busters
+Q: Is the estimate really free? A: Yes. 100% free, no strings attached.
+Q: Am I obligated to hire you if I get an estimate? A: Not at all. We give you the estimate and you decide. No pressure.
+Q: How quickly do you respond? A: We aim to respond same or next business day.
+CTA STRATEGY
+Form Fields: Name, Phone, Email, Service Needed (dropdown), Property Address, Message
+Submit Button: Orange fill: &apos;Send My Estimate Request&apos;
+Trust Right Column: Star rating, response time, no-obligation promise, phone number
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  Real content around the form for SEO — competitor page is near-empty to crawlers
+✓  Two-column layout with trust signals alongside form — competitor has form only
+✓  &apos;What Happens Next&apos; section — competitor has no explanation of post-submission process
+✓  Hesitation-busting mini FAQ with schema — competitor has none on this page
+✓  Trust signals at point of conversion — competitor&apos;s estimate page has none
+
+   PAGE 16: CONTACT
+URL: https://stainandsealpros.com/contact/
+Page Type: Contact Page
+
+SEO BRIEF
+Primary Keyword: contact wood staining company Springfield MO
+Title Tag: Contact Stain & Seal Pros | Springfield, MO Wood Care Specialists
+Meta Description: Contact Stain & Seal Pros in Springfield, MO. Call, email, or fill out our form. We respond same or next day. Serving Springfield, Ozark, Nixa & Republic.
+H1: Contact Stain & Seal Pros
+Schema: ContactPoint + LocalBusiness with full NAP
+CRITICAL FIX: Competitor contact page title tag says &apos;Deck Staining & Cleaning Contractors&apos; — clearly a copy/paste error. Every page title must be reviewed before launch.
+DIFFERENTIATE: Contact and Estimate are separate pages with distinct purposes — competitor has near-identical content on both.
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ H1: &apos;Contact Stain & Seal Pros&apos;          │
+├──────────────────────────────────────────┤
+│ THREE-COLUMN CONTACT INFO                │
+│ [Phone]      [Email]      [Address]      │
+│ tap-to-call  clickable    Springfield MO │
+├──────────────────────────────────────────┤
+│ BUSINESS HOURS                           │
+│ (competitor shows no hours anywhere)     │
+├──────────────────────────────────────────┤
+│ GOOGLE MAP EMBED                         │
+│ (competitor has no map on contact page)  │
+├──────────────────────────────────────────┤
+│ CONTACT FORM (general inquiry — shorter  │
+│ than estimate form)                      │
+│ Name | Phone | Message | [Send BTN]      │
+├──────────────────────────────────────────┤
+│ &apos;Need a quote? →&apos; Link to estimate page  │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+Business Hours (fill in actuals)
+Monday – Friday: [X:00 AM – X:00 PM]
+Saturday: [X:00 AM – X:00 PM]
+Sunday: [Closed / By Appointment]
+CTA STRATEGY
+Title Tag Check: MANDATORY: Verify every page title is unique and page-specific before launch
+Map: Google Map embed showing Springfield MO service area
+Hours: Business hours displayed — competitor shows none anywhere on site
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  Correct, page-specific title tag — competitor contact page has wrong title
+✓  Google Map embed — competitor has no map on contact page
+✓  Business hours displayed — competitor shows no hours anywhere
+✓  Phone, email, and address all visible — competitor&apos;s contact page is near-empty
+✓  Clearly separate from estimate page — competitor has near-identical content on both
+
+   PAGE 17: WOOD CARE GUIDE (Lead Magnet)
+URL: https://stainandsealpros.com/resources/wood-care-guide/
+Page Type: Resource / Lead Magnet Page
+
+SEO BRIEF
+Primary Keyword: how to maintain a wood fence deck Springfield MO
+Title Tag: Free Wood Care Guide — Fences, Decks & More | Stain & Seal Pros
+Meta Description: Download our free wood care guide for Springfield homeowners. Learn how to maintain your fence, deck, and outdoor wood for maximum longevity. From Stain & Seal Pros.
+H1: The Springfield Homeowner&apos;s Guide to Outdoor Wood Care
+Schema: FAQPage + HowTo + Article
+Purpose: Email capture lead magnet + SEO content page. Competitor has zero content marketing — this page alone builds more topical authority than their entire blog.
+Format: Long-form guide (1500+ words) covering maintenance timeline, stain selection, seasonal care in Missouri
+WIREFRAME
+┌──────────────────────────────────────────┐
+│ HERO + H1: &apos;Springfield Homeowner&apos;s      │
+│  Guide to Outdoor Wood Care&apos;             │
+├──────────────────────────────────────────┤
+│ EMAIL CAPTURE BOX                        │
+│ &apos;Get the full PDF guide delivered to     │
+│  your inbox — free&apos;                      │
+│ [Email] [Send Me the Guide BTN]          │
+├──────────────────────────────────────────┤
+│ GUIDE CONTENT (long-form, 1500+ words)   │
+│ Section 1: Why wood needs protection     │
+│ Section 2: Stain vs seal vs paint        │
+│ Section 3: Missouri seasonal care guide  │
+│ Section 4: DIY vs professional           │
+│ Section 5: Maintenance timeline          │
+├──────────────────────────────────────────┤
+│ RELATED SERVICE CTAs throughout          │
+└──────────────────────────────────────────┘
+COPY DIRECTION
+Guide Section Outlines
+Section 1 — Why Outdoor Wood Needs Protection in Missouri
+Missouri&apos;s climate (hot humid summers, freeze/thaw winters, heavy UV exposure) accelerates wood decay. Unprotected fences and decks can show significant wear in 2-3 years.
+
+Section 2 — Staining vs. Sealing vs. Painting: What&apos;s the Difference?
+Explain penetrating stains, film-forming finishes, and paint. When to use each. Why oil-based penetrating stains outperform paint for outdoor wood.
+
+Section 3 — Missouri Seasonal Wood Care Calendar
+Spring: Inspect after winter, clean, assess stain wear.
+Summer: Best time to stain (dry weather, low humidity).
+Fall: Clean and seal before winter.
+Winter: Inspect for damage, note boards for repair.
+
+Section 4 — DIY vs. Professional Staining
+When it makes sense to DIY. When to call a pro. True cost comparison.
+
+Section 5 — Your Wood Care Maintenance Timeline
+New wood: Pre-stain before installation.
+0-6 months: Let wood cure, then first stain.
+2-3 years: Refresh coat.
+5+ years: Full restoration may be needed.
+CTA STRATEGY
+Email Capture: MailChimp or similar integration — email goes into a nurture sequence
+PDF Version: Offer a downloadable PDF version of the guide for email capture
+Internal Links: Every service mentioned in the guide links to the corresponding service page
+SUPERIORITY NOTES (vs. stainandsealexperts.com)
+✓  Email capture lead magnet — competitor has zero email capture anywhere on site
+✓  1500+ word content page — builds topical authority competitor completely lacks
+✓  Missouri-specific content — seasonal care guide for local climate
+✓  HowTo + Article schema — competitor has no schema on any content pages
+✓  Internal linking hub — every mention of a service links to that service page
+
+   SECTION 4 — SCHEMA MARKUP IMPLEMENTATION PLAN
+
+The competitor has ZERO schema markup across their entire site. This is our single biggest technical SEO advantage. Implementing schema correctly from launch puts us immediately ahead on structured data signals.
+
+SCHEMA BY PAGE
+Homepage
+Organization + LocalBusiness (full NAP + GeoCoordinates) + AggregateRating + FAQPage (3 questions)
+
+All Service Pages
+Service + FAQPage (service-specific questions) + LocalBusiness (inherit)
+
+Pre-Stain & Our Process
+Service + HowTo (step-by-step process) + FAQPage
+
+About Us
+Organization + Person (Ty Mackey) + Person (Scott Pitts) + LocalBusiness
+
+FAQs Page
+FAQPage — every single question must be marked up
+
+Photo Gallery
+ImageObject on every photo (name, description, contentUrl, thumbnailUrl)
+
+Testimonials
+Review (per review) + AggregateRating (page level)
+
+Locations Hub
+LocalBusiness + GeoCoordinates + ServiceArea
+
+Springfield Location Page
+LocalBusiness (full NAP) + GeoCoordinates + hasMap
+
+Get a Free Estimate
+LocalBusiness + FAQPage (mini) + ContactPoint
+
+Contact Page
+ContactPoint + LocalBusiness (full NAP) + OpeningHoursSpecification
+
+Wood Care Guide
+Article + HowTo + FAQPage
+LOCALBUSINESS SCHEMA — REQUIRED FIELDS
+@type
+LocalBusiness → HomeAndConstructionBusiness
+
+name
+Stain & Seal Pros
+
+url
+https://stainandsealpros.com
+
+telephone
+[Business phone number]
+
+email
+[Business email]
+
+address
+Springfield, MO [full address]
+
+areaServed
+Springfield, Ozark, Nixa, Republic, and 20-mile radius
+
+openingHours
+[Business hours in schema format]
+
+priceRange
+$$
+
+description
+Wood Care Specialists serving Springfield, MO and surrounding communities.
+
+sameAs
+[Facebook URL, Instagram URL, Google Business Profile URL]
+
+   SECTION 5 — CONVERSION ARCHITECTURE
+
+PRIMARY CONVERSION GOAL
+Convert website visitors into free estimate requests — via form submission or phone call.
+CONVERSION TOOLS (ALL missing from competitor)
+First-visit discount: 10% off first service (mention code PROS10). Featured on homepage.
+Live chat widget: Install Tidio or Intercom. Captures evening/weekend visitors when phones aren&apos;t answered.
+Email capture: Wood Care Guide PDF download via email opt-in. Feeds a nurture email sequence.
+Exit intent popup: Triggered when visitor moves to close browser. Offer: &apos;Before you go — get your free estimate in 60 seconds.&apos;
+Sticky mobile CTA bar: Fixed bottom bar on mobile. &apos;Call Now&apos; (tap-to-call) + &apos;Get a Free Estimate&apos; buttons.
+Google Reviews widget: Live star rating display on homepage and testimonials page.
+CTA COPY STANDARDS
+Every CTA must be benefit-driven and specific. Never &apos;Contact Us&apos;. Always something that describes the outcome.
+
+Primary CTA
+Get a Free Estimate
+
+Service-Specific
+Get a Free Fence Estimate / Get a Free Deck Estimate / Book Your Log Home Consultation
+
+Offer CTA
+Claim Your 10% Discount
+
+Gallery CTA
+See Our Work
+
+Lead Magnet
+Send Me the Free Guide
+
+After Reviews
+Join Our Happy Customers — Get a Free Estimate
+
+Phone CTA
+Call Us: [417-XXX-XXXX]
+CONVERSION PAGE CHECKLIST — /get-a-free-estimate/
+Form with 6 fields maximum (Name, Phone, Email, Service, Address, Message)
+Trust column beside form: star rating, response time, no-obligation promise
+&apos;What happens next&apos; 3-step explanation
+3 short customer review quotes near form
+Mini FAQ with 3 hesitation-busting answers
+Tap-to-call phone number prominent on mobile
+Page must have real content for SEO — not just a JS-rendered form
+
+   SECTION 6 — LOCAL SEO STRATEGY
+
+PRIMARY MARKET: SPRINGFIELD, MO
+Springfield is the primary target for all initial SEO efforts. Every page should include Springfield, MO in the title tag, H1 (or H2), and meta description. The city should appear naturally in body copy on all service and location pages.
+SECONDARY MARKETS
+Ozark, MO — second most important, high residential growth
+Nixa, MO — active suburban market
+Republic, MO — growing western suburb
+Willard, Battlefield, Strafford — tertiary
+LOCAL SEO ARCHITECTURE
+Location Pages
+Build /locations/springfield-mo/ and /locations/ozark-nixa-republic/ at launch. Add individual city pages as volume grows.
+
+City Mentions in Service Pages
+Every service page references &apos;Springfield, MO&apos; in title, H1, and naturally in body. At least one mention of secondary cities in body copy.
+
+Google Business Profile
+Claim and fully optimize GBP for Springfield. Categories: Painter, Fence Contractor. Link to stainandsealpros.com. Upload photos. Encourage reviews from day one.
+
+NAP Consistency
+Business name, address, and phone must be IDENTICAL across website, GBP, Facebook, Yelp, Angi, HomeAdvisor, BBB. Inconsistency hurts local rankings.
+
+Review Strategy
+Target 25+ Google reviews within first 6 months. Send follow-up text to every completed job with a direct Google review link. Star ratings in AggregateRating schema will show in search results.
+LOCAL KEYWORD TARGETS
+fence staining Springfield MO
+deck staining Springfield MO
+wood fence staining Ozark MO
+fence staining Nixa MO
+deck staining Republic MO
+log home restoration Springfield MO
+pergola staining Springfield MO
+pre-stain fence service Springfield MO
+wood staining company near me Springfield
+fence staining cost Springfield MO
+
+   SECTION 7 — RECOMMENDED TECH STACK & PERFORMANCE
+
+PLATFORM RECOMMENDATION
+CMS
+WordPress — same as competitor, well-supported, large ecosystem of wood/home services themes
+
+Page Builder
+Elementor Pro or Kadence Blocks — for visual control without developer dependency
+
+Hosting
+WP Engine, Kinsta, or SiteGround — managed WordPress with good Core Web Vitals support
+
+Theme
+Custom child theme using brand colors (#FF6A00, #0B3A66) or Astra/Kadence as base
+PERFORMANCE REQUIREMENTS
+Google PageSpeed Score: Target 85+ mobile, 90+ desktop
+Core Web Vitals: LCP under 2.5s, CLS under 0.1, FID under 100ms
+Images: WebP format, lazy loading, proper alt text on all images
+Video: YouTube embeds only — no self-hosted video files (competitor&apos;s mistake)
+Caching: WP Rocket or NitroPack — competitor uses NitroPack, it works well
+ESSENTIAL PLUGINS
+Yoast SEO or RankMath — schema markup, title/meta management
+WP Rocket — caching and performance
+Smush or ShortPixel — image optimization
+Tidio or Intercom — live chat
+WPForms or Gravity Forms — estimate request form
+MonsterInsights — Google Analytics 4 integration
+Schema Pro — additional schema types beyond Yoast&apos;s built-in
+TRACKING & ANALYTICS
+Google Analytics 4
+Install via Google Tag Manager from day one
+
+Google Search Console
+Verify domain, submit sitemap, monitor indexing
+
+Facebook Pixel
+Install for potential paid social campaigns — competitor has Pixel ID: 1456141908994396 (their setup)
+
+Call Tracking
+Use CallRail or similar to track phone leads from website vs other sources
+
+Google Tag Manager
+Install GTM first — all other tags (GA4, FB Pixel, CallRail) deploy through GTM
+XML SITEMAP & ROBOTS.TXT
+Generate XML sitemap at launch via Yoast/RankMath — competitor had no accessible sitemap
+Submit sitemap to Google Search Console immediately after launch
+Robots.txt: Allow all public pages, block /wp-admin/, /wp-login.php
+
+   SECTION 8 — PRE-LAUNCH CHECKLIST
+
+Complete every item before going live. Each item below corresponds to a confirmed issue found on the competitor site or a standard launch requirement.
+
+CONTENT CHECKS
+All 17 pages have unique, page-specific title tags — no copy/paste errors
+All title tags are under 60 characters
+All meta descriptions are under 155 characters
+Every H1 contains the primary keyword + city
+Every service page has service-specific (not copy-pasted) FAQ content
+Privacy Policy is a real, customized policy — not WordPress default template
+Terms & Conditions is a real document
+No Lorem Ipsum placeholder text exists anywhere on the live site
+All forms submit correctly and send to the right email address
+All CTA buttons link to the correct destination — test every single one
+TECHNICAL CHECKS
+XML sitemap generated and submitted to Google Search Console
+Google Analytics 4 tracking verified (test real-time view)
+Facebook Pixel verified if running paid ads
+Schema markup validated via Google Rich Results Test for every page type
+LocalBusiness schema tested and showing address, phone, hours correctly
+FAQPage schema tested and showing in Google preview
+All images have descriptive alt text
+All images are WebP or optimized JPG — no uncompressed files
+Google PageSpeed score 85+ mobile before launch
+SSL certificate active — all URLs serving https://
+www redirect to non-www (or vice versa) set correctly — no duplicate domain versions
+LOCAL SEO CHECKS
+Google Business Profile claimed and fully completed
+NAP (Name, Address, Phone) identical on website, GBP, and all directories
+Google Map embed functional on Locations and Contact pages
+Service area cities correctly listed on Locations page
+LocalBusiness schema includes correct address, phone, and service area
+CONVERSION CHECKS
+Estimate form submits and sends notification email
+Contact form submits and sends notification email
+Live chat widget active and connected to notification
+Email capture form on Wood Care Guide connected to email marketing list
+Mobile sticky CTA bar visible and functional on all mobile pages
+All phone numbers are tap-to-call on mobile
+10% discount offer (PROS10) is prominently displayed on homepage
+
+   APPENDIX — QUICK REFERENCE
+
+BRAND COLORS REFERENCE
+Hi-Vis Orange
+#FF6A00 — CTAs, headings, borders, accents
+
+Deep Blue
+#0B3A66 — Backgrounds, footer, authority sections
+
+Clean White
+#FFFFFF — Backgrounds, reversed text
+
+Dark Gray
+#444444 — Body text
+
+Light Gray
+#F5F5F5 — Alt section backgrounds
+
+Mid Gray
+#DDDDDD — Borders, dividers
+TYPOGRAPHY REFERENCE
+H1 — Display
+Arial Bold, 36pt, Orange #FF6A00
+
+H2 — Section
+Arial Bold, 24pt, Deep Blue #0B3A66
+
+H3 — Subsection
+Arial Bold, 16pt, Dark Gray #444444
+
+Body Text
+Arial Regular, 11pt, Dark Gray #444444, line-height 1.4x
+
+Captions
+Arial Italic, 8pt, Medium Gray
+
+Web Heading Alt
+Inter (Google Fonts) — free alternative for digital headings
+COMPETITOR BUGS — DO NOT REPEAT
+⚠  Contact page title tag says &apos;Deck Staining & Cleaning Contractors&apos; — copy/paste error
+⚠  Pre-Stain mid-page CTA links to &apos;#&apos; — broken conversion path
+⚠  Testimonials page promises video testimonials but has zero videos
+⚠  Wood Repairs page is Lorem Ipsum — live page with no real content
+⚠  Privacy Policy is unedited WordPress default template throughout
+⚠  Mid-Tennessee hero slide 2 has Lorem Ipsum placeholder text
+⚠  Zero schema markup across entire site
+⚠  About video is self-hosted MP4 — use YouTube embeds instead
+KEY DIFFERENTIATORS SUMMARY
+✓  All 6 services shown on homepage and services hub
+✓  FAQ schema on every page with FAQ content
+✓  Before/after pairs throughout gallery — not just after shots
+✓  LocalBusiness schema with full NAP on every relevant page
+✓  10% first-time discount offer — prominent conversion incentive
+✓  Live chat widget installed from day one
+✓  Email capture lead magnet (Wood Care Guide)
+✓  Pricing transparency — ballpark ranges in FAQ, not deflection
+✓  Google Map embed on Locations and Contact pages
+✓  Founder names (Ty Mackey & Scott Pitts) on About, Process, and Pre-Stain pages
+✓  Business hours displayed on Contact page
+✓  20+ FAQ questions vs competitor&apos;s 8 — with accordion UI
+✓  Wood Repairs is a real, fully written page — competitor&apos;s is Lorem Ipsum
+
+END OF BUILD DIRECTIVE
+Stain & Seal Pros  |  stainandsealpros.com  |  Springfield, MO  |  March 2026
