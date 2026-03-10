@@ -28,6 +28,7 @@
         .faq-question { width:100%; background:none; border:none; padding:18px 0; font-size:1.05em; font-weight:600; text-align:left; cursor:pointer; display:flex; justify-content:space-between; align-items:center; color:#0B3A66; font-family:inherit; }
         .faq-question::after { content:'+'; font-size:1.4em; font-weight:300; transition:transform .3s; }
         .faq-item.active .faq-question::after { content:'−'; }
+        .faq-item.active .faq-answer { max-height:500px; }
         .faq-answer { max-height:0; overflow:hidden; transition:max-height .3s ease; }
         .faq-answer p { padding:0 0 18px; margin:0; color:#555; line-height:1.7; }
         .inline-cta { text-align:center; margin:30px 0 10px; padding:25px; background:#f0f4f8; border-radius:12px; }
