@@ -28,8 +28,8 @@
         .faq-question { width:100%; background:none; border:none; padding:18px 0; font-size:1.05em; font-weight:600; text-align:left; cursor:pointer; display:flex; justify-content:space-between; align-items:center; color:#0B3A66; font-family:inherit; }
         .faq-question::after { content:'+'; font-size:1.4em; font-weight:300; transition:transform .3s; }
         .faq-item.active .faq-question::after { content:'−'; }
-        .faq-item.active .faq-answer { max-height:500px; }
-        .faq-answer { max-height:0; overflow:hidden; transition:max-height .3s ease; }
+        .faq-item.active .faq-answer { display:block; }
+        .faq-answer { display:none; }
         .faq-answer p { padding:0 0 18px; margin:0; color:#555; line-height:1.7; }
         .inline-cta { text-align:center; margin:30px 0 10px; padding:25px; background:#f0f4f8; border-radius:12px; }
         .inline-cta p { margin-bottom:15px; font-size:1.05em; font-weight:600; color:#0B3A66; }
@@ -181,27 +181,27 @@
         <div class="faq-category">
             <h2><i class="fas fa-info-circle" style="color:#FF6A00; margin-right:10px;"></i>General Questions</h2>
             <div class="faq-accordion">
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">Why should I stain and seal my fence or deck?</button>
                     <div class="faq-answer"><p>Bare wood is defenseless against Missouri weather. UV rays gray it out, rain drives moisture deep into the grain, and freeze-thaw cycles crack and split the fibers. A quality stain blocks UV damage while a sealer repels moisture — together they can double or triple the lifespan of your wood. It's the single best investment you can make to protect a fence or deck.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">How long does staining last?</button>
                     <div class="faq-answer"><p>In Springfield's climate, a professional stain job typically lasts 2–4 years on fences and 2–3 years on decks (decks take more foot traffic and direct sun). The exact lifespan depends on sun exposure, drainage, wood type, and the product used. We use commercial-grade stains designed for Missouri's humidity and temperature swings.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">What's the best time of year to stain wood in Missouri?</button>
                     <div class="faq-answer"><p>Spring and fall are ideal — temperatures between 50°F and 85°F with low humidity give stain the best conditions to penetrate and cure. We can work through summer too, but we schedule around the hottest days. Winter is generally off-limits because stain won't cure properly below 50°F. We stay booked through peak season, so plan ahead.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">Do you use eco-friendly products?</button>
                     <div class="faq-answer"><p>Yes. We carry low-VOC and water-based stain options that are safe for pets, kids, and landscaping. These products have come a long way — they perform just as well as traditional oil-based stains in most applications. We'll walk you through the options and help you pick what makes sense for your situation.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">Do you subcontract any work?</button>
                     <div class="faq-answer"><p>Never. Every job is handled by our own crew, led by co-founders Ty Mackey and Scott Pitts. We don't hand off work to random subcontractors. When you hire Stain &amp; Seal Pros, you get Stain &amp; Seal Pros — the same team, the same standards, every time.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">What areas do you serve?</button>
                     <div class="faq-answer"><p>We serve Springfield and all surrounding communities including Ozark, Nixa, Republic, Willard, Battlefield, Rogersville, Strafford, Clever, Highlandville, Billings, and Fair Grove. Most of our work is within 30 miles of Springfield. Same crew, same quality, no travel fees within our service area.</p></div>
                 </div>
@@ -220,23 +220,23 @@
         <div class="faq-category">
             <h2><i class="fas fa-border-all" style="color:#FF6A00; margin-right:10px;"></i>Fence Staining Questions</h2>
             <div class="faq-accordion">
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">How long after a new fence is installed should I stain it?</button>
                     <div class="faq-answer"><p>For kiln-dried lumber, you can stain within a few days of installation. For green or wet lumber, wait 3–6 weeks for the wood to dry and acclimate. Better yet — ask about our pre-stain service. We coat all four sides of every board before installation so your fence is protected from day one.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">Can you stain both sides of the fence?</button>
                     <div class="faq-answer"><p>On installed fences, we stain the accessible side plus top caps and posts. If you want both sides fully coated, our pre-stain service is the way to go — every board gets stain on all four sides before it's ever nailed up. That's the gold standard for fence protection.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">Can you stain a fence that was previously painted?</button>
                     <div class="faq-answer"><p>Yes, but the paint has to come off first. We strip old paint using professional-grade removers and prep the surface back to bare wood. Once clean, the fence accepts stain beautifully. It's more labor-intensive, but the result is worth it — stain looks more natural and protects better than paint on wood fences.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">What stain colors do you offer for fences?</button>
                     <div class="faq-answer"><p>We carry a full range from Natural Cedar and Pecan to Dark Walnut and Ebony. Semi-transparent stains are the most popular because they let the wood grain show through while providing strong UV protection. We bring color samples to every estimate so you can see how they look on your actual wood, in your lighting.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">What brands of stain do you use?</button>
                     <div class="faq-answer"><p>We use commercial-grade products from trusted brands — not the consumer-grade stuff you find at big box stores. Our go-to products are selected specifically for Missouri's climate: hot summers, cold winters, and plenty of humidity. During your estimate, we'll recommend the right product for your wood type and situation.</p></div>
                 </div>
@@ -255,19 +255,19 @@
         <div class="faq-category">
             <h2><i class="fas fa-th-large" style="color:#FF6A00; margin-right:10px;"></i>Deck Staining Questions</h2>
             <div class="faq-accordion">
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">Can you stain a composite deck?</button>
                     <div class="faq-answer"><p>Composite decking doesn't need traditional staining — it's designed to be maintenance-free. However, if your composite deck has faded or you want to change the color, there are specialty coatings made specifically for composite materials. We can assess your deck and recommend the right approach.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">Do you sand decks before staining?</button>
                     <div class="faq-answer"><p>When needed, yes. If the deck has rough spots, splinters, or old finish buildup, we sand those areas smooth before staining. For most decks, a thorough pressure wash and brightening treatment is enough to prep the surface. We evaluate every deck individually and do whatever it takes to get the stain to bond properly.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">How do I maintain my deck after staining?</button>
                     <div class="faq-answer"><p>Keep it clean. Sweep off leaves and debris regularly — trapped moisture is the number one enemy. A gentle wash once or twice a year helps too. Avoid dragging heavy furniture across it, and use protective pads under chair legs. When you notice the water bead test failing (water soaks in instead of beading up), it's time to re-coat.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">How long should I wait to use my deck after staining?</button>
                     <div class="faq-answer"><p>We recommend staying off the deck for 24–48 hours after staining to let the product fully cure. Light foot traffic is usually fine after 24 hours, but hold off on moving furniture back for at least 48. We'll give you specific instructions based on the product and weather conditions at the time of your project.</p></div>
                 </div>
@@ -286,11 +286,11 @@
         <div class="faq-category">
             <h2><i class="fas fa-home" style="color:#FF6A00; margin-right:10px;"></i>Log Home Questions</h2>
             <div class="faq-accordion">
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">How often should a log home be stained?</button>
                     <div class="faq-answer"><p>Most log homes in Southwest Missouri need re-staining every 3–5 years, depending on exposure. South and west-facing walls take the most UV and may need attention sooner. Regular maintenance staining is far cheaper than full restoration — catch it early and you save thousands.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">What is chinking and does my home need it?</button>
                     <div class="faq-answer"><p>Chinking is the flexible sealant applied between logs to fill gaps and prevent air and water infiltration. If you can see daylight between your logs, feel drafts, or notice insects getting in — you need chinking. It also improves energy efficiency dramatically. We handle chinking and staining together so your log home gets complete protection in one project.</p></div>
                 </div>
@@ -309,15 +309,15 @@
         <div class="faq-category">
             <h2><i class="fas fa-dollar-sign" style="color:#FF6A00; margin-right:10px;"></i>Pricing Questions</h2>
             <div class="faq-accordion">
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">How much does fence staining cost in Springfield, MO?</button>
                     <div class="faq-answer"><p>Most residential fence staining projects in the Springfield area run <strong>$1.50 to $4.00 per square foot</strong>, depending on fence height, wood condition, and stain product. A typical 150-linear-foot privacy fence costs roughly $800–$1,800. We provide free on-site estimates so you get an exact price before any work begins — no surprises.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">How much does deck staining cost?</button>
                     <div class="faq-answer"><p>Deck staining in Springfield typically ranges from <strong>$2.00 to $5.00 per square foot</strong>. A standard 300-square-foot deck usually falls between $600 and $1,500 depending on condition, prep work needed, and stain choice. Decks with railings, stairs, and heavy weathering are on the higher end. Every estimate is free and on-site.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">Do you offer any discounts?</button>
                     <div class="faq-answer"><p>We run seasonal promotions and occasionally offer discounts for bundled services — like staining your fence and deck together. We also offer referral credits for customers who send friends our way. The best way to find out about current offers is to call us at 417-496-4694 or request a free estimate.</p></div>
                 </div>
@@ -336,15 +336,15 @@
         <div class="faq-category">
             <h2><i class="fas fa-clipboard-list" style="color:#FF6A00; margin-right:10px;"></i>Process Questions</h2>
             <div class="faq-accordion">
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">How long does the job take?</button>
                     <div class="faq-answer"><p>Most fence staining jobs take 1–2 days. Decks typically take 1–3 days depending on size and prep work. Log homes can take a week or more. We give you a clear timeline during the estimate so you know exactly what to expect. Weather can shift things — if rain is coming, we'll communicate that upfront.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">Do I need to be home while you work?</button>
                     <div class="faq-answer"><p>Not usually. As long as we have access to the work area and a water spigot, we're good. Most customers leave for work and come back to a finished fence or deck. We'll text you progress photos and let you know when we're done.</p></div>
                 </div>
-                <div class="faq-item" onclick="this.classList.toggle('active'); var a=this.querySelector('.faq-answer'); a.style.maxHeight=a.style.maxHeight?null:a.scrollHeight+'px';">
+                <div class="faq-item" onclick="this.classList.toggle('active')">
                     <button class="faq-question">What happens if it rains after you stain?</button>
                     <div class="faq-answer"><p>We monitor weather forecasts closely and only apply stain when we have a dry window of at least 24–48 hours. If an unexpected rain hits before the stain cures, we come back and touch up any affected areas at no charge. That's our guarantee — we stand behind every job.</p></div>
                 </div>
