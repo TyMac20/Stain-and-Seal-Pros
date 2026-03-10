@@ -11,6 +11,8 @@ ul { padding: 0; list-style: none; }
 a { text-decoration: none; color: var(--orange); }
 a:visited { color: var(--orange); }
 a.btn, a.btn:visited { color: #fff; }
+a.btn-white, a.btn-white:visited { color: var(--blue); }
+a.btn-alt, a.btn-alt:visited { color: #fff; }
 p { margin: 0 0 20px; }
 
 body {
