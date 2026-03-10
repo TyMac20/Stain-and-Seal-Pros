@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Blog — Wood Care Tips &amp; Insights | Stain &amp; Seal Pros</title>
+    <meta name="description" content="Expert wood care tips, staining advice, and outdoor maintenance insights from the Stain & Seal Pros team in Springfield, MO." />
+    <link rel="canonical" href="https://stain-and-seal-pros.vercel.app/blog/" />
+    <meta property="og:title" content="Blog — Wood Care Tips & Insights | Stain & Seal Pros" />
+    <meta property="og:description" content="Expert wood care tips, staining advice, and outdoor maintenance insights from Springfield, MO." />
+    <meta property="og:url" content="https://stain-and-seal-pros.vercel.app/blog/" />
+    <meta property="og:site_name" content="Stain &amp; Seal Pros" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%23FF6A00'/><text x='16' y='22' font-size='18' font-weight='bold' fill='white' text-anchor='middle' font-family='Arial'>SP</text></svg>">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Saira:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="../style.css">
+
+    <style>
+        .blog-layout { display:grid; grid-template-columns:1fr 320px; gap:40px; }
+        .blog-cards { display:grid; grid-template-columns:repeat(2, 1fr); gap:25px; }
+        .blog-card { background:#fff; border-radius:12px; overflow:hidden; box-shadow:0 2px 12px rgba(0,0,0,.08); transition:transform .2s, box-shadow .2s; }
+        .blog-card:hover { transform:translateY(-3px); box-shadow:0 6px 20px rgba(0,0,0,.12); }
+        .blog-card-img { height:200px; background:#e9ecef; display:flex; align-items:center; justify-content:center; color:#999; font-size:.9em; }
+        .blog-card-body { padding:22px; }
+        .blog-card-meta { font-size:.8em; color:#999; margin-bottom:8px; }
+        .blog-card-meta span { margin-right:12px; }
+        .blog-card-body h3 { font-size:1.1em; margin-bottom:10px; color:#0B3A66; line-height:1.4; }
+        .blog-card-body h3 a { color:#0B3A66; }
+        .blog-card-body h3 a:hover { color:#FF6A00; }
+        .blog-card-body p { font-size:.9em; color:#666; line-height:1.6; margin-bottom:12px; }
+        .blog-card-body .read-more { font-weight:700; font-size:.9em; }
+        .sidebar { position:sticky; top:20px; }
+        .sidebar-box { background:#fff; border-radius:12px; padding:25px; box-shadow:0 2px 12px rgba(0,0,0,.08); margin-bottom:25px; }
+        .sidebar-box h3 { font-size:1em; color:#0B3A66; margin-bottom:12px; border-bottom:2px solid #FF6A00; padding-bottom:8px; }
+        .sidebar-cta { background:#0B3A66; color:#fff; border-radius:12px; padding:30px 25px; text-align:center; }
+        .sidebar-cta h3 { color:#fff; border-bottom:none; margin-bottom:8px; }
+        .sidebar-cta p { color:rgba(255,255,255,.85); font-size:.9em; margin-bottom:18px; line-height:1.6; }
+        .sidebar-cta .btn { display:block; }
+        .sidebar-cta .phone { margin-top:12px; font-size:.95em; }
+        .sidebar-cta .phone a { color:#FF6A00; font-weight:700; }
+        @media(max-width:900px) {
+            .blog-layout { grid-template-columns:1fr; }
+            .blog-cards { grid-template-columns:1fr; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="header">
+    <div class="wrapper-alt">
+        <div class="headcols">
+            <div class="head-col1">
+                <div class="logo">
+                    <a href="/" title="Stain &amp; Seal Pros"><img src="../images/logo_transparent.png" alt="Stain and Seal Pros" width="200" height="95"></a>
+                </div>
+            </div>
+            <div class="head-col2">
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li>
+                            <a href="/services/">Services</a>
+                            <ul>
+                                <li><a href="/services/wood-fence-staining/">Wood Fences</a></li>
+                                <li><a href="/services/wood-deck-staining/">Wood Decks</a></li>
+                                <li><a href="/services/log-home-restoration/">Log Homes</a></li>
+                                <li><a href="/services/pergolas-outdoor-structures/">Pergolas &amp; Structures</a></li>
+                                <li><a href="/services/pre-stain-services/">Pre-Stain</a></li>
+                                <li><a href="/services/wood-repairs/">Wood Repairs</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/locations/">Locations</a>
+                            <ul>
+                                <li><a href="/locations/springfield-mo/">Springfield</a></li>
+                                <li><a href="/locations/ozark-mo/">Ozark</a></li>
+                                <li><a href="/locations/nixa-mo/">Nixa</a></li>
+                                <li><a href="/locations/republic-mo/">Republic</a></li>
+                                <li><a href="/locations/willard-mo/">Willard</a></li>
+                                <li><a href="/locations/battlefield-mo/">Battlefield</a></li>
+                                <li><a href="/locations/strafford-mo/">Strafford</a></li>
+                                <li><a href="/locations/rogersville-mo/">Rogersville</a></li>
+                                <li><a href="/locations/clever-mo/">Clever</a></li>
+                                <li><a href="/locations/highlandville-mo/">Highlandville</a></li>
+                                <li><a href="/locations/billings-mo/">Billings</a></li>
+                                <li><a href="/locations/fair-grove-mo/">Fair Grove</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/our-process/">Our Process</a></li>
+                        <li><a href="/photo-gallery/">Gallery</a></li>
+                        <li>
+                            <a href="#" class="active">Resources</a>
+                            <ul>
+                                <li><a href="/about-us/">About Us</a></li>
+                                <li><a href="/faqs/">FAQs</a></li>
+                                <li><a href="/testimonials/">Testimonials</a></li>
+                                <li><a href="/resources/wood-care-guide/">Wood Care Guide</a></li>
+                                <li><a href="/blog/" class="active">Blog</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="head-col3">
+                <span class="headphone">
+                    <span class="phone-icon"><i class="fas fa-phone-alt"></i></span>
+                    <span>Call us today<a href="tel:417-496-4694">417-496-4694</a></span>
+                </span>
+                <a href="/get-a-free-estimate/" class="btn">Get a Free Estimate</a>
+            </div>
+            <div class="nav-toggle" onclick="document.querySelector('.head-col2').style.display = document.querySelector('.head-col2').style.display === 'block' ? 'none' : 'block'">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- PAGE HERO -->
+<section class="page-hero">
+    <div class="wrapper">
+        <div class="breadcrumb">
+            <a href="/">Home</a> <span>&rsaquo;</span> Blog
+        </div>
+        <h1>Blog — Wood Care Tips &amp; Insights</h1>
+        <p>Practical advice for Springfield homeowners on protecting and maintaining outdoor wood.</p>
+    </div>
+</section>
+
+<!-- BLOG LISTING -->
+<section class="section">
+    <div class="wrapper">
+        <div class="blog-layout">
+            <div class="blog-main">
+                <div class="blog-cards">
+
+                    <!-- POST 1 -->
+                    <div class="blog-card">
+                        <div class="blog-card-img">
+                            <span><i class="fas fa-images" style="font-size:1.5em;display:block;margin-bottom:5px;"></i>Deck Restoration — Springfield, MO</span>
+                        </div>
+                        <div class="blog-card-body">
+                            <div class="blog-card-meta">
+                                <span><i class="far fa-calendar-alt"></i> March 10, 2026</span>
+                                <span><i class="far fa-user"></i> Stain &amp; Seal Pros</span>
+                            </div>
+                            <h3><a href="/blog/restore-vs-rebuild-old-deck/">Is It Worth Restoring a 10-Year-Old Deck — Or Should You Rebuild?</a></h3>
+                            <p>Your deck has seen 10 years of Springfield weather. It looks rough. But does that mean it's time to tear it out? Not necessarily. Here's how to decide.</p>
+                            <a href="/blog/restore-vs-rebuild-old-deck/" class="read-more">Read More →</a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- SIDEBAR -->
+            <div class="sidebar">
+                <div class="sidebar-cta">
+                    <h3>Free Deck Inspection</h3>
+                    <p>Not sure if your deck needs restoration or replacement? We'll come out, assess it, and give you an honest recommendation — free.</p>
+                    <a href="/get-a-free-estimate/" class="btn">Schedule Free Inspection</a>
+                    <p class="phone">Or call: <a href="tel:417-496-4694">417-496-4694</a></p>
+                </div>
+
+                <div class="sidebar-box">
+                    <h3>Popular Services</h3>
+                    <ul style="list-style:none;padding:0;">
+                        <li style="padding:6px 0;"><a href="/services/wood-deck-staining/"><i class="fas fa-chevron-right" style="font-size:.7em;margin-right:8px;color:#FF6A00;"></i>Deck Staining &amp; Sealing</a></li>
+                        <li style="padding:6px 0;"><a href="/services/wood-fence-staining/"><i class="fas fa-chevron-right" style="font-size:.7em;margin-right:8px;color:#FF6A00;"></i>Fence Staining</a></li>
+                        <li style="padding:6px 0;"><a href="/services/wood-repairs/"><i class="fas fa-chevron-right" style="font-size:.7em;margin-right:8px;color:#FF6A00;"></i>Wood Repairs</a></li>
+                        <li style="padding:6px 0;"><a href="/services/pergolas-outdoor-structures/"><i class="fas fa-chevron-right" style="font-size:.7em;margin-right:8px;color:#FF6A00;"></i>Pergolas &amp; Structures</a></li>
+                        <li style="padding:6px 0;"><a href="/resources/wood-care-guide/"><i class="fas fa-chevron-right" style="font-size:.7em;margin-right:8px;color:#FF6A00;"></i>Free Wood Care Guide</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- FOOTER CTA BAR -->
+<div class="footer-cta">
+    <div class="wrapper">
+        <div class="row align-items-center justify-content-center" style="gap:30px;">
+            <div class="col-lg-4" style="display:flex;align-items:center;justify-content:center;">
+                <span class="headphone">
+                    <span class="phone-icon"><i class="fas fa-phone-alt"></i></span>
+                    <span>Call us today<a href="tel:417-496-4694">417-496-4694</a></span>
+                </span>
+            </div>
+            <div class="col-lg-4" style="display:flex;align-items:center;justify-content:center;">
+                <a href="/get-a-free-estimate/" class="btn">Get a Free Estimate</a>
+            </div>
+            <div class="col-lg-4" style="display:flex;align-items:center;justify-content:center;">
+                <img src="../images/side_wrap_white_bg.jpg" alt="Stain and Seal Pros vehicle" class="van-img">
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- FOOTER -->
+<footer class="footer">
+    <div class="wrapper">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="foot-col">
+                    <img src="../images/logo_transparent.png" alt="Stain &amp; Seal Pros" class="footer-logo">
+                    <h4>We don't just stain — <strong>we protect your investment</strong></h4>
+                    <div class="social-icons">
+                        <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+                        <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <div class="foot-col">
+                    <h3>Quick Links</h3>
+                    <ul class="footer-nav two-col">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/locations/">Locations</a></li>
+                        <li><a href="/photo-gallery/">Gallery</a></li>
+                        <li><a href="/our-process/">Our Process</a></li>
+                        <li><a href="/services/">Services</a></li>
+                        <li><a href="/about-us/">About Us</a></li>
+                        <li><a href="/blog/">Blog</a></li>
+                        <li><a href="/faqs/">FAQs</a></li>
+                        <li><a href="/testimonials/">Testimonials</a></li>
+                        <li><a href="/contact/">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="foot-col">
+                    <h3>Services</h3>
+                    <ul class="footer-nav">
+                        <li><a href="/services/wood-fence-staining/">Wood Fences</a></li>
+                        <li><a href="/services/wood-deck-staining/">Wood Decks</a></li>
+                        <li><a href="/services/pergolas-outdoor-structures/">Pergolas &amp; Outdoor Structures</a></li>
+                        <li><a href="/services/log-home-restoration/">Log Homes</a></li>
+                        <li><a href="/services/wood-repairs/">Wood Repairs</a></li>
+                        <li><a href="/services/pre-stain-services/">Pre-Stain Services</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyrights">
+            <p>&copy; 2026 Stain &amp; Seal Pros. All rights reserved. | <a href="/privacy-policy/">Privacy Policy</a> | <a href="/terms-and-conditions/">Terms &amp; Conditions</a></p>
+        </div>
+    </div>
+</footer>
+
+<!-- MOBILE STICKY CTA -->
+<div class="mobile-sticky-cta">
+    <div class="cta-inner">
+        <a href="tel:417-496-4694" class="phone-link"><i class="fas fa-phone-alt"></i> Call Now</a>
+        <a href="/get-a-free-estimate/" class="btn">Free Estimate</a>
+    </div>
+</div>
+
+</body>
+</html>
