@@ -21,7 +21,7 @@ module.exports = async (req, res) => {
   const pdfBase64 = pdfBuffer.toString('base64');
 
   const payload = JSON.stringify({
-    from: 'Stain & Seal Pros <guides@stainandseal.pro>',
+    from: 'Stain & Seal Pros <onboarding@resend.dev>',
     to: [email],
     subject: 'Your Free Wood Care Guide — Stain & Seal Pros',
     html: `
