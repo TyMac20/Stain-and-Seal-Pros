@@ -44,13 +44,13 @@ module.exports = async (req, res) => {
           </ul>
           <p style="color:#444;line-height:1.7;">Questions about your fence, deck, or outdoor wood? We're happy to help.</p>
           <div style="text-align:center;margin:25px 0;">
-            <a href="https://stainandseal.pro/get-a-free-estimate/" style="background:#FF6A00;color:#fff;padding:14px 30px;text-decoration:none;border-radius:8px;font-weight:bold;font-size:16px;">Get a Free Estimate</a>
+            <a href="https://stain-and-seal-pros.vercel.app/get-a-free-estimate/" style="background:#FF6A00;color:#fff;padding:14px 30px;text-decoration:none;border-radius:8px;font-weight:bold;font-size:16px;">Get a Free Estimate</a>
           </div>
           <p style="color:#444;line-height:1.7;">Or call us directly: <strong><a href="tel:417-496-4694" style="color:#FF6A00;">417-496-4694</a></strong></p>
           <p style="color:#444;">— Ty & Scott<br>Stain & Seal Pros</p>
         </div>
         <div style="background:#f5f5f5;padding:20px;text-align:center;font-size:12px;color:#999;">
-          <p>Stain & Seal Pros | Springfield, MO | <a href="https://stainandseal.pro" style="color:#FF6A00;">stainandseal.pro</a></p>
+          <p>Stain & Seal Pros | Springfield, MO | <a href="https://stain-and-seal-pros.vercel.app" style="color:#FF6A00;">stainandseal.pro</a></p>
         </div>
       </div>
     `,
